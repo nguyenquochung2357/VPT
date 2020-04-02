@@ -29,7 +29,7 @@ namespace Visual_Periodic_Table
 
         private void btnthongtinthem_Click(object sender, EventArgs e)
         {
-            MessageBox .Show ("Phần mềm Visual Periodic Table là phần mềm hỗ trợ học tốt môn hóa học\nPhần mềm là bảng tuần hoàn được sắp xếp sinh động trực quan(vì thế nên có tên là Visual Perioidic Table)\nCác hình ảnh nguyên tố được lấy từ: http://images-ofelements.com \nTrong phần mềm có sử dụng các thông tin các nguyên tố được sưu tầm từ Wikipedia và vài nguồn khác.\nPhần mềm đang trong thời kì phát triển nên sẽ có những sai sót. Mọi ý kiến đóng góp xin gửi về quocthinhvo0@gmail.com.\nCảm ơn các bạn!","Thông tin thêm");
+            MessageBox .Show ("Phần mềm Visual Periodic Table là phần mềm hỗ trợ học tốt môn hóa học\nPhần mềm là bảng tuần hoàn được sắp xếp sinh động trực quan(vì thế nên có tên là Visual Perioidic Table)\nCác hình ảnh nguyên tố được lấy từ: http://images-ofelements.com \nTrong phần mềm có sử dụng các thông tin các nguyên tố được sưu tầm từ Wikipedia và vài nguồn khác.\nPhần mềm đang trong thời kì phát triển nên sẽ có những sai sót. Mọi ý kiến đóng góp xin gửi về carzygaming2222@gmail.com\nCảm ơn các bạn!","Thông tin thêm");
         }
     }
 }

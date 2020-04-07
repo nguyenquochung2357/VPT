@@ -1087,13 +1087,7 @@ namespace Visual_Periodic_Table
             f.ShowDialog();
         }
 
-        private void cácKiếnThứcCơBảnToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            Kien_thuc_hoa_co_ban f = new Kien_thuc_hoa_co_ban();
-            f.Show();
-            f.lbkienthuchoacoban.Text = "Phân loại các chất vô cơ trong lớp 8";
-
-        }
+     
 
         private void btzn_Click(object sender, EventArgs e)
         {
@@ -3934,34 +3928,17 @@ namespace Visual_Periodic_Table
             f.ShowDialog();
         }
 
-        private void phảnHồnhậnXétToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            Process.Start("https://cungnhauhoctot.wordpress.com/2018/10/09/phan-hoi-phan-mem-visual-periodic-table/#respond");
-        }
+     
 
         private void ngônNgữToolStripMenuItem_Click(object sender, EventArgs e)
         {
 
         }
 
-        private void bằngVănBảngToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            MessageBox.Show("Trang wed hướng dẫn sẽ bắt bạn nhập mật khẩu. Bạn hãy nhập: \nvisualperiodictablequocthinhvo", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
-            Process.Start("https://cungnhauhoctot.wordpress.com/2018/10/09/huong-dan-su-dung-phan-mem-visual-periodic-table/");
-        }
+   
 
-        private void cânBằngPhươngTrìnhToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            Can_Bang_Phuong_Trinhcs f = new Can_Bang_Phuong_Trinhcs();
-            f.ShowDialog();
-        }
+   
 
-        private void từĐiểnHóaHọcToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            Tu_Dien f = new Tu_Dien();
-            //f.BackColor = Color.Red;
-            f.ShowDialog();
-        }
 
         private void bằngVideoToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -3980,17 +3957,8 @@ namespace Visual_Periodic_Table
             f.ShowDialog();
         }
 
-        private void tsmcanbang_Click(object sender, EventArgs e)
-        {
-            Can_Bang_Phuong_Trinhcs f = new Can_Bang_Phuong_Trinhcs();
-            f.ShowDialog();
-        }
+    
 
-        private void từĐiểnHóaHọcToolStripMenuItem1_Click(object sender, EventArgs e)
-        {
-            Tu_Dien f = new Tu_Dien();
-            f.ShowDialog();
-        }
 
         private void giúpĐỡToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -4011,12 +3979,44 @@ namespace Visual_Periodic_Table
 
         private void càiĐặtToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            
         }
 
         private void thôngTinPhầnMềmToolStripMenuItem_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void cácTínhNăngKhácToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void mnschinh_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+
+        }
+
+        private void máyTinh_Click(object sender, EventArgs e)
+        {
+            MayTinh f = new MayTinh();
+            f.ShowDialog();
+        }
+
+        private void kienthuchhcoban(object sender, EventArgs e)
+        {
+           
+        }
+
+        private void vậtLíToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void kienthuchoahoacoban_Click(object sender, EventArgs e)
+        {
+            Kienthuchoahoccoban f = new Kienthuchoahoccoban();
+            f.ShowDialog();
         }
     }
 }

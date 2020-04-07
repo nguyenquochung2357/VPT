@@ -82,9 +82,9 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = global::Visual_Periodic_Table.Properties.Resources.Bang_Tinh_Tan_Of_Visual_Periodic_Table;
-            this.pictureBox1.Location = new System.Drawing.Point(5, 12);
+            this.pictureBox1.Location = new System.Drawing.Point(12, 12);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(1140, 502);
+            this.pictureBox1.Size = new System.Drawing.Size(1133, 502);
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
             // 

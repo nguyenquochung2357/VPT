@@ -68,7 +68,16 @@ namespace Visual_Periodic_Table
                 pictureBox3.Image = new Bitmap(Application.StartupPath + "//Kham_Pha_Ca_Mau//dam.jpg");
                 pictureBox4.Image = new Bitmap(Application.StartupPath + "//Kham_Pha_Ca_Mau//dam_thi.jpg");
             }
-            if (chon == "")
+            if (chon == "Rừng ngập mặn")
+            {
+                lbtieude.Text = "Rừng ngập mặn";
+                lbthongtinchitiet.Text = "Rừng ngập mặn cách Cà Mau khoảng 60km\n Là khu rừng ngập măn lớn thứ 2 thế giới sau rừng Amazon\n Thảm thực vật ở đây phong phú với nhiều loại như :\n + Đước, mắm \n+ Dương xỉ, đá, dây leo.\n";
+                pictureBox1.Image = new Bitmap(Application.StartupPath + "//Kham_Pha_Ca_Mau//Rungngapmancamau(1).jpg");
+                pictureBox2.Image = new Bitmap(Application.StartupPath + "//Kham_Pha_Ca_Mau//Rungngapmancamau(2).jpg");
+                pictureBox3.Image = new Bitmap(Application.StartupPath + "//Kham_Pha_Ca_Mau//Rungngapmancamau(3).jpg");
+               
+            }
+                if (chon == "")
             {
 
             }

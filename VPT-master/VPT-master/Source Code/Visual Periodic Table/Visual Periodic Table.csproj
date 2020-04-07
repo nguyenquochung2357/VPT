@@ -82,17 +82,14 @@
     <Compile Include="Cai_Dat.Designer.cs">
       <DependentUpon>Cai_Dat.cs</DependentUpon>
     </Compile>
-    <Compile Include="Can_Bang_Phuong_Trinhcs.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Can_Bang_Phuong_Trinhcs.Designer.cs">
-      <DependentUpon>Can_Bang_Phuong_Trinhcs.cs</DependentUpon>
-    </Compile>
     <Compile Include="Chuyen_Doi.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Chuyen_Doi.Designer.cs">
       <DependentUpon>Chuyen_Doi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DBVPTDataSet.cs">
+      <DependentUpon>DBVPTDataSet.xsd</DependentUpon>
     </Compile>
     <Compile Include="DBVPTDataSet.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -150,11 +147,17 @@
     <Compile Include="Kham_Pha_Ca_Mau.Designer.cs">
       <DependentUpon>Kham_Pha_Ca_Mau.cs</DependentUpon>
     </Compile>
-    <Compile Include="Kien_thuc_hoa_co_ban.cs">
+    <Compile Include="Kienthuchoahoccoban.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Kien_thuc_hoa_co_ban.Designer.cs">
-      <DependentUpon>Kien_thuc_hoa_co_ban.cs</DependentUpon>
+    <Compile Include="Kienthuchoahoccoban.Designer.cs">
+      <DependentUpon>Kienthuchoahoccoban.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MayTinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MayTinh.Designer.cs">
+      <DependentUpon>MayTinh.cs</DependentUpon>
     </Compile>
     <Compile Include="Nhom_Lantan.cs">
       <SubType>Form</SubType>
@@ -194,6 +197,12 @@
     <Compile Include="Tinh_Dien_Tro.Designer.cs">
       <DependentUpon>Tinh_Dien_Tro.cs</DependentUpon>
     </Compile>
+    <Compile Include="Tinh_khoang_cach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tinh_khoang_cach.Designer.cs">
+      <DependentUpon>Tinh_khoang_cach.cs</DependentUpon>
+    </Compile>
     <Compile Include="Tinh_Mol.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -218,12 +227,6 @@
     <Compile Include="Trinh_Duyet.Designer.cs">
       <DependentUpon>Trinh_Duyet.cs</DependentUpon>
     </Compile>
-    <Compile Include="Tu_Dien.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Tu_Dien.Designer.cs">
-      <DependentUpon>Tu_Dien.cs</DependentUpon>
-    </Compile>
     <Compile Include="Video_Huong_Dan.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -238,9 +241,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Cai_Dat.resx">
       <DependentUpon>Cai_Dat.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Can_Bang_Phuong_Trinhcs.resx">
-      <DependentUpon>Can_Bang_Phuong_Trinhcs.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Chuyen_Doi.resx">
       <DependentUpon>Chuyen_Doi.cs</DependentUpon>
@@ -263,9 +263,13 @@
     <EmbeddedResource Include="Kham_Pha_Ca_Mau.resx">
       <DependentUpon>Kham_Pha_Ca_Mau.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Kien_thuc_hoa_co_ban.resx">
-      <DependentUpon>Kien_thuc_hoa_co_ban.cs</DependentUpon>
+    <EmbeddedResource Include="Kienthuchoahoccoban.resx">
+      <DependentUpon>Kienthuchoahoccoban.cs</DependentUpon>
     </EmbeddedResource>
+    <None Include="MayTinh.resx">
+      <DependentUpon>MayTinh.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <EmbeddedResource Include="Nhom_Lantan.resx">
       <DependentUpon>Nhom_Lantan.cs</DependentUpon>
     </EmbeddedResource>
@@ -294,6 +298,9 @@
     <EmbeddedResource Include="Tinh_Dien_Tro.resx">
       <DependentUpon>Tinh_Dien_Tro.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Tinh_khoang_cach.resx">
+      <DependentUpon>Tinh_khoang_cach.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Tinh_Mol.resx">
       <DependentUpon>Tinh_Mol.cs</DependentUpon>
     </EmbeddedResource>
@@ -305,9 +312,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Trinh_Duyet.resx">
       <DependentUpon>Trinh_Duyet.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Tu_Dien.resx">
-      <DependentUpon>Tu_Dien.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Video_Huong_Dan.resx">
       <DependentUpon>Video_Huong_Dan.cs</DependentUpon>
@@ -371,6 +375,7 @@
     <None Include="Resources\Tác giả Bảng tuần hoàn.jpg" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="bin\Debug\Resources\chemistry.png" />
     <Content Include="DATA\DBVPT.mdf">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
@@ -495,6 +500,7 @@
     <Content Include="Image Of Visual Periodic Table\zinc-2.jpg" />
     <Content Include="Image Of Visual Periodic Table\zirconium.jpg" />
     <Content Include="Resources\hd.mp4" />
+    <None Include="Resources\Icon1.ico" />
     <None Include="Resources\computers02600tj0.jpg" />
     <None Include="Resources\moc.jpg" />
     <None Include="Resources\toa_do.jpg" />

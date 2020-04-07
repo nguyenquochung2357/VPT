@@ -117,16 +117,4024 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <metadata name="pn7.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="pn7.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <metadata name="btactini.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btactini.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="btactini.Location" type="System.Drawing.Point, System.Drawing">
+    <value>147, 3</value>
+  </data>
+  <data name="btactini.Size" type="System.Drawing.Size, System.Drawing">
+    <value>68, 61</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="btactini.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="btactini.Text" xml:space="preserve">
+    <value>89-103
+Họ Actini</value>
+  </data>
+  <data name="&gt;&gt;btactini.Name" xml:space="preserve">
+    <value>btactini</value>
+  </data>
+  <data name="&gt;&gt;btactini.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btactini.Parent" xml:space="preserve">
+    <value>pn7</value>
+  </data>
+  <data name="&gt;&gt;btactini.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="btra.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btra.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btra.Location" type="System.Drawing.Point, System.Drawing">
+    <value>75, 3</value>
+  </data>
+  <data name="btra.Size" type="System.Drawing.Size, System.Drawing">
+    <value>66, 61</value>
+  </data>
+  <data name="btra.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="btra.Text" xml:space="preserve">
+    <value>88
+Ra
+Rađi</value>
+  </data>
+  <data name="&gt;&gt;btra.Name" xml:space="preserve">
+    <value>btra</value>
+  </data>
+  <data name="&gt;&gt;btra.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btra.Parent" xml:space="preserve">
+    <value>pn7</value>
+  </data>
+  <data name="&gt;&gt;btra.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <metadata name="lbfr.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="lbfr.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbfr.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 3</value>
+  </data>
+  <data name="lbfr.Size" type="System.Drawing.Size, System.Drawing">
+    <value>66, 61</value>
+  </data>
+  <data name="lbfr.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="lbfr.Text" xml:space="preserve">
+    <value>87
+Fr
+Franxi</value>
+  </data>
+  <data name="&gt;&gt;lbfr.Name" xml:space="preserve">
+    <value>lbfr</value>
+  </data>
+  <data name="&gt;&gt;lbfr.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbfr.Parent" xml:space="preserve">
+    <value>pn7</value>
+  </data>
+  <data name="&gt;&gt;lbfr.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="pn7.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="pn7.Location" type="System.Drawing.Point, System.Drawing">
+    <value>56, 552</value>
+  </data>
+  <data name="pn7.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1282, 65</value>
+  </data>
+  <data name="pn7.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;pn7.Name" xml:space="preserve">
+    <value>pn7</value>
+  </data>
+  <data name="&gt;&gt;pn7.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pn7.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pn7.ZOrder" xml:space="preserve">
+    <value>54</value>
+  </data>
+  <metadata name="pn6.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="pn6.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <metadata name="btrn.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btrn.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btrn.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1208, 3</value>
+  </data>
+  <data name="btrn.Size" type="System.Drawing.Size, System.Drawing">
+    <value>66, 59</value>
+  </data>
+  <data name="btrn.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="btrn.Text" xml:space="preserve">
+    <value>86
+Rn
+Rađon</value>
+  </data>
+  <data name="&gt;&gt;btrn.Name" xml:space="preserve">
+    <value>btrn</value>
+  </data>
+  <data name="&gt;&gt;btrn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btrn.Parent" xml:space="preserve">
+    <value>pn6</value>
+  </data>
+  <data name="&gt;&gt;btrn.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="btpo.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btpo.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btpo.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1071, 3</value>
+  </data>
+  <data name="btpo.Size" type="System.Drawing.Size, System.Drawing">
+    <value>61, 59</value>
+  </data>
+  <data name="btpo.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="btpo.Text" xml:space="preserve">
+    <value>84
+Po
+Poloni</value>
+  </data>
+  <data name="&gt;&gt;btpo.Name" xml:space="preserve">
+    <value>btpo</value>
+  </data>
+  <data name="&gt;&gt;btpo.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btpo.Parent" xml:space="preserve">
+    <value>pn6</value>
+  </data>
+  <data name="&gt;&gt;btpo.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <metadata name="btat.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btat.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btat.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1138, 3</value>
+  </data>
+  <data name="btat.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 59</value>
+  </data>
+  <data name="btat.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="btat.Text" xml:space="preserve">
+    <value>85
+At
+Atatin</value>
+  </data>
+  <data name="&gt;&gt;btat.Name" xml:space="preserve">
+    <value>btat</value>
+  </data>
+  <data name="&gt;&gt;btat.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btat.Parent" xml:space="preserve">
+    <value>pn6</value>
+  </data>
+  <data name="&gt;&gt;btat.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <metadata name="btbi.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btbi.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btbi.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1004, 3</value>
+  </data>
+  <data name="btbi.Size" type="System.Drawing.Size, System.Drawing">
+    <value>61, 59</value>
+  </data>
+  <data name="btbi.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="btbi.Text" xml:space="preserve">
+    <value>83
+Bi
+Bimut</value>
+  </data>
+  <data name="&gt;&gt;btbi.Name" xml:space="preserve">
+    <value>btbi</value>
+  </data>
+  <data name="&gt;&gt;btbi.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btbi.Parent" xml:space="preserve">
+    <value>pn6</value>
+  </data>
+  <data name="&gt;&gt;btbi.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <metadata name="btpb.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btpb.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btpb.Location" type="System.Drawing.Point, System.Drawing">
+    <value>936, 3</value>
+  </data>
+  <data name="btpb.Size" type="System.Drawing.Size, System.Drawing">
+    <value>62, 59</value>
+  </data>
+  <data name="btpb.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="btpb.Text" xml:space="preserve">
+    <value>82
+Pb
+Chì</value>
+  </data>
+  <data name="&gt;&gt;btpb.Name" xml:space="preserve">
+    <value>btpb</value>
+  </data>
+  <data name="&gt;&gt;btpb.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btpb.Parent" xml:space="preserve">
+    <value>pn6</value>
+  </data>
+  <data name="&gt;&gt;btpb.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <metadata name="bttl.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="bttl.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="bttl.Location" type="System.Drawing.Point, System.Drawing">
+    <value>864, 3</value>
+  </data>
+  <data name="bttl.Size" type="System.Drawing.Size, System.Drawing">
+    <value>66, 59</value>
+  </data>
+  <data name="bttl.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="bttl.Text" xml:space="preserve">
+    <value>81
+Tl
+Tali</value>
+  </data>
+  <data name="&gt;&gt;bttl.Name" xml:space="preserve">
+    <value>bttl</value>
+  </data>
+  <data name="&gt;&gt;bttl.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;bttl.Parent" xml:space="preserve">
+    <value>pn6</value>
+  </data>
+  <data name="&gt;&gt;bttl.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <metadata name="bthg.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="bthg.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="bthg.Location" type="System.Drawing.Point, System.Drawing">
+    <value>787, 3</value>
+  </data>
+  <data name="bthg.Size" type="System.Drawing.Size, System.Drawing">
+    <value>71, 59</value>
+  </data>
+  <data name="bthg.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="bthg.Text" xml:space="preserve">
+    <value>80
+Hg
+Thủy Ngân</value>
+  </data>
+  <data name="&gt;&gt;bthg.Name" xml:space="preserve">
+    <value>bthg</value>
+  </data>
+  <data name="&gt;&gt;bthg.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;bthg.Parent" xml:space="preserve">
+    <value>pn6</value>
+  </data>
+  <data name="&gt;&gt;bthg.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <metadata name="btau.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btau.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btau.Location" type="System.Drawing.Point, System.Drawing">
+    <value>713, 3</value>
+  </data>
+  <data name="btau.Size" type="System.Drawing.Size, System.Drawing">
+    <value>68, 59</value>
+  </data>
+  <data name="btau.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="btau.Text" xml:space="preserve">
+    <value>79
+Au
+Vàng</value>
+  </data>
+  <data name="&gt;&gt;btau.Name" xml:space="preserve">
+    <value>btau</value>
+  </data>
+  <data name="&gt;&gt;btau.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btau.Parent" xml:space="preserve">
+    <value>pn6</value>
+  </data>
+  <data name="&gt;&gt;btau.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <metadata name="btpt.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btpt.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btpt.Location" type="System.Drawing.Point, System.Drawing">
+    <value>647, 3</value>
+  </data>
+  <data name="btpt.Size" type="System.Drawing.Size, System.Drawing">
+    <value>60, 59</value>
+  </data>
+  <data name="btpt.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="btpt.Text" xml:space="preserve">
+    <value>78
+Pt
+Platin</value>
+  </data>
+  <data name="&gt;&gt;btpt.Name" xml:space="preserve">
+    <value>btpt</value>
+  </data>
+  <data name="&gt;&gt;btpt.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btpt.Parent" xml:space="preserve">
+    <value>pn6</value>
+  </data>
+  <data name="&gt;&gt;btpt.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <metadata name="btir.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btir.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btir.Location" type="System.Drawing.Point, System.Drawing">
+    <value>576, 3</value>
+  </data>
+  <data name="btir.Size" type="System.Drawing.Size, System.Drawing">
+    <value>65, 59</value>
+  </data>
+  <data name="btir.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="btir.Text" xml:space="preserve">
+    <value>77
+Ir
+Iriđi</value>
+  </data>
+  <data name="&gt;&gt;btir.Name" xml:space="preserve">
+    <value>btir</value>
+  </data>
+  <data name="&gt;&gt;btir.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btir.Parent" xml:space="preserve">
+    <value>pn6</value>
+  </data>
+  <data name="&gt;&gt;btir.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <metadata name="btos.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btos.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btos.Location" type="System.Drawing.Point, System.Drawing">
+    <value>503, 3</value>
+  </data>
+  <data name="btos.Size" type="System.Drawing.Size, System.Drawing">
+    <value>67, 59</value>
+  </data>
+  <data name="btos.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="btos.Text" xml:space="preserve">
+    <value>76
+Os
+Osimi</value>
+  </data>
+  <data name="&gt;&gt;btos.Name" xml:space="preserve">
+    <value>btos</value>
+  </data>
+  <data name="&gt;&gt;btos.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btos.Parent" xml:space="preserve">
+    <value>pn6</value>
+  </data>
+  <data name="&gt;&gt;btos.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <metadata name="btre.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btre.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btre.Location" type="System.Drawing.Point, System.Drawing">
+    <value>436, 3</value>
+  </data>
+  <data name="btre.Size" type="System.Drawing.Size, System.Drawing">
+    <value>61, 59</value>
+  </data>
+  <data name="btre.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="btre.Text" xml:space="preserve">
+    <value>75
+Re
+Reni</value>
+  </data>
+  <data name="&gt;&gt;btre.Name" xml:space="preserve">
+    <value>btre</value>
+  </data>
+  <data name="&gt;&gt;btre.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btre.Parent" xml:space="preserve">
+    <value>pn6</value>
+  </data>
+  <data name="&gt;&gt;btre.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <metadata name="btw.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btw.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btw.Location" type="System.Drawing.Point, System.Drawing">
+    <value>363, 3</value>
+  </data>
+  <data name="btw.Size" type="System.Drawing.Size, System.Drawing">
+    <value>67, 59</value>
+  </data>
+  <data name="btw.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="btw.Text" xml:space="preserve">
+    <value>74
+W
+Vonfam</value>
+  </data>
+  <data name="&gt;&gt;btw.Name" xml:space="preserve">
+    <value>btw</value>
+  </data>
+  <data name="&gt;&gt;btw.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btw.Parent" xml:space="preserve">
+    <value>pn6</value>
+  </data>
+  <data name="&gt;&gt;btw.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <metadata name="btta.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btta.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btta.Location" type="System.Drawing.Point, System.Drawing">
+    <value>291, 3</value>
+  </data>
+  <data name="btta.Size" type="System.Drawing.Size, System.Drawing">
+    <value>67, 59</value>
+  </data>
+  <data name="btta.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="btta.Text" xml:space="preserve">
+    <value>73
+Ta
+Tantan</value>
+  </data>
+  <data name="&gt;&gt;btta.Name" xml:space="preserve">
+    <value>btta</value>
+  </data>
+  <data name="&gt;&gt;btta.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btta.Parent" xml:space="preserve">
+    <value>pn6</value>
+  </data>
+  <data name="&gt;&gt;btta.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <metadata name="bthf.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="bthf.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="bthf.Location" type="System.Drawing.Point, System.Drawing">
+    <value>216, 3</value>
+  </data>
+  <data name="bthf.Size" type="System.Drawing.Size, System.Drawing">
+    <value>72, 59</value>
+  </data>
+  <data name="bthf.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="bthf.Text" xml:space="preserve">
+    <value>72
+Hf
+Hafini</value>
+  </data>
+  <data name="&gt;&gt;bthf.Name" xml:space="preserve">
+    <value>bthf</value>
+  </data>
+  <data name="&gt;&gt;bthf.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;bthf.Parent" xml:space="preserve">
+    <value>pn6</value>
+  </data>
+  <data name="&gt;&gt;bthf.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <metadata name="btlantan.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btlantan.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btlantan.Location" type="System.Drawing.Point, System.Drawing">
+    <value>147, 3</value>
+  </data>
+  <data name="btlantan.Size" type="System.Drawing.Size, System.Drawing">
+    <value>68, 59</value>
+  </data>
+  <data name="btlantan.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="btlantan.Text" xml:space="preserve">
+    <value>57-71
+Họ Lantan</value>
+  </data>
+  <data name="&gt;&gt;btlantan.Name" xml:space="preserve">
+    <value>btlantan</value>
+  </data>
+  <data name="&gt;&gt;btlantan.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btlantan.Parent" xml:space="preserve">
+    <value>pn6</value>
+  </data>
+  <data name="&gt;&gt;btlantan.ZOrder" xml:space="preserve">
+    <value>15</value>
+  </data>
+  <metadata name="btba.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btba.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btba.Location" type="System.Drawing.Point, System.Drawing">
+    <value>75, 3</value>
+  </data>
+  <data name="btba.Size" type="System.Drawing.Size, System.Drawing">
+    <value>66, 59</value>
+  </data>
+  <data name="btba.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="btba.Text" xml:space="preserve">
+    <value>56
+Ba
+Bari</value>
+  </data>
+  <data name="&gt;&gt;btba.Name" xml:space="preserve">
+    <value>btba</value>
+  </data>
+  <data name="&gt;&gt;btba.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btba.Parent" xml:space="preserve">
+    <value>pn6</value>
+  </data>
+  <data name="&gt;&gt;btba.ZOrder" xml:space="preserve">
+    <value>16</value>
+  </data>
+  <metadata name="btcs.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btcs.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btcs.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 3</value>
+  </data>
+  <data name="btcs.Size" type="System.Drawing.Size, System.Drawing">
+    <value>66, 59</value>
+  </data>
+  <data name="btcs.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="btcs.Text" xml:space="preserve">
+    <value>55
+Cs
+Xesi</value>
+  </data>
+  <data name="&gt;&gt;btcs.Name" xml:space="preserve">
+    <value>btcs</value>
+  </data>
+  <data name="&gt;&gt;btcs.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btcs.Parent" xml:space="preserve">
+    <value>pn6</value>
+  </data>
+  <data name="&gt;&gt;btcs.ZOrder" xml:space="preserve">
+    <value>17</value>
+  </data>
+  <data name="pn6.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="pn6.Location" type="System.Drawing.Point, System.Drawing">
+    <value>56, 480</value>
+  </data>
+  <data name="pn6.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1282, 66</value>
+  </data>
+  <data name="pn6.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;pn6.Name" xml:space="preserve">
+    <value>pn6</value>
+  </data>
+  <data name="&gt;&gt;pn6.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pn6.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pn6.ZOrder" xml:space="preserve">
+    <value>53</value>
+  </data>
+  <metadata name="panel1.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="panel1.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <metadata name="btxe.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btxe.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btxe.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1208, 3</value>
+  </data>
+  <data name="btxe.Size" type="System.Drawing.Size, System.Drawing">
+    <value>66, 62</value>
+  </data>
+  <data name="btxe.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="btxe.Text" xml:space="preserve">
+    <value>54
+Xe
+Xenon</value>
+  </data>
+  <data name="&gt;&gt;btxe.Name" xml:space="preserve">
+    <value>btxe</value>
+  </data>
+  <data name="&gt;&gt;btxe.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btxe.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;btxe.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="bti.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="bti.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="bti.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1136, 3</value>
+  </data>
+  <data name="bti.Size" type="System.Drawing.Size, System.Drawing">
+    <value>66, 62</value>
+  </data>
+  <data name="bti.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="bti.Text" xml:space="preserve">
+    <value>53
+I
+Iot</value>
+  </data>
+  <data name="&gt;&gt;bti.Name" xml:space="preserve">
+    <value>bti</value>
+  </data>
+  <data name="&gt;&gt;bti.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;bti.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;bti.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <metadata name="button16.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="button16.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button16.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1071, 3</value>
+  </data>
+  <data name="button16.Size" type="System.Drawing.Size, System.Drawing">
+    <value>61, 62</value>
+  </data>
+  <data name="button16.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="button16.Text" xml:space="preserve">
+    <value>52
+Te
+Telu</value>
+  </data>
+  <data name="&gt;&gt;button16.Name" xml:space="preserve">
+    <value>button16</value>
+  </data>
+  <data name="&gt;&gt;button16.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button16.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;button16.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <metadata name="btsb.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btsb.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btsb.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1004, 3</value>
+  </data>
+  <data name="btsb.Size" type="System.Drawing.Size, System.Drawing">
+    <value>61, 62</value>
+  </data>
+  <data name="btsb.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="btsb.Text" xml:space="preserve">
+    <value>51
+Sb
+Stibi</value>
+  </data>
+  <data name="&gt;&gt;btsb.Name" xml:space="preserve">
+    <value>btsb</value>
+  </data>
+  <data name="&gt;&gt;btsb.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btsb.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;btsb.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <metadata name="btsn.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btsn.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btsn.Location" type="System.Drawing.Point, System.Drawing">
+    <value>932, 3</value>
+  </data>
+  <data name="btsn.Size" type="System.Drawing.Size, System.Drawing">
+    <value>66, 62</value>
+  </data>
+  <data name="btsn.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="btsn.Text" xml:space="preserve">
+    <value>50
+Sn
+Thiếc</value>
+  </data>
+  <data name="&gt;&gt;btsn.Name" xml:space="preserve">
+    <value>btsn</value>
+  </data>
+  <data name="&gt;&gt;btsn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btsn.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;btsn.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <metadata name="button13.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="button13.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button13.Location" type="System.Drawing.Point, System.Drawing">
+    <value>864, 3</value>
+  </data>
+  <data name="button13.Size" type="System.Drawing.Size, System.Drawing">
+    <value>62, 62</value>
+  </data>
+  <data name="button13.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="button13.Text" xml:space="preserve">
+    <value>49
+In
+Inđi</value>
+  </data>
+  <data name="&gt;&gt;button13.Name" xml:space="preserve">
+    <value>button13</value>
+  </data>
+  <data name="&gt;&gt;button13.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button13.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;button13.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <metadata name="btcd.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btcd.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btcd.Location" type="System.Drawing.Point, System.Drawing">
+    <value>787, 3</value>
+  </data>
+  <data name="btcd.Size" type="System.Drawing.Size, System.Drawing">
+    <value>71, 62</value>
+  </data>
+  <data name="btcd.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="btcd.Text" xml:space="preserve">
+    <value>48
+Cd
+Cađimi</value>
+  </data>
+  <data name="&gt;&gt;btcd.Name" xml:space="preserve">
+    <value>btcd</value>
+  </data>
+  <data name="&gt;&gt;btcd.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btcd.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;btcd.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <metadata name="btag.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btag.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btag.Location" type="System.Drawing.Point, System.Drawing">
+    <value>713, 3</value>
+  </data>
+  <data name="btag.Size" type="System.Drawing.Size, System.Drawing">
+    <value>68, 62</value>
+  </data>
+  <data name="btag.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="btag.Text" xml:space="preserve">
+    <value>47
+Ag
+Bạc</value>
+  </data>
+  <data name="&gt;&gt;btag.Name" xml:space="preserve">
+    <value>btag</value>
+  </data>
+  <data name="&gt;&gt;btag.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btag.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;btag.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <metadata name="btpd.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btpd.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btpd.Location" type="System.Drawing.Point, System.Drawing">
+    <value>647, 3</value>
+  </data>
+  <data name="btpd.Size" type="System.Drawing.Size, System.Drawing">
+    <value>60, 62</value>
+  </data>
+  <data name="btpd.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="btpd.Text" xml:space="preserve">
+    <value>46
+Pd
+Palađi</value>
+  </data>
+  <data name="&gt;&gt;btpd.Name" xml:space="preserve">
+    <value>btpd</value>
+  </data>
+  <data name="&gt;&gt;btpd.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btpd.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;btpd.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <metadata name="btrh.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btrh.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btrh.Location" type="System.Drawing.Point, System.Drawing">
+    <value>575, 3</value>
+  </data>
+  <data name="btrh.Size" type="System.Drawing.Size, System.Drawing">
+    <value>66, 62</value>
+  </data>
+  <data name="btrh.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="btrh.Text" xml:space="preserve">
+    <value>45
+Rh
+Rođi</value>
+  </data>
+  <data name="&gt;&gt;btrh.Name" xml:space="preserve">
+    <value>btrh</value>
+  </data>
+  <data name="&gt;&gt;btrh.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btrh.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;btrh.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <metadata name="btru.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btru.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btru.Location" type="System.Drawing.Point, System.Drawing">
+    <value>504, 3</value>
+  </data>
+  <data name="btru.Size" type="System.Drawing.Size, System.Drawing">
+    <value>66, 62</value>
+  </data>
+  <data name="btru.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="btru.Text" xml:space="preserve">
+    <value>44
+Ru
+Ruteni</value>
+  </data>
+  <data name="&gt;&gt;btru.Name" xml:space="preserve">
+    <value>btru</value>
+  </data>
+  <data name="&gt;&gt;btru.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btru.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;btru.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <metadata name="bttc.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="bttc.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="bttc.Location" type="System.Drawing.Point, System.Drawing">
+    <value>436, 3</value>
+  </data>
+  <data name="bttc.Size" type="System.Drawing.Size, System.Drawing">
+    <value>61, 62</value>
+  </data>
+  <data name="bttc.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="bttc.Text" xml:space="preserve">
+    <value>43
+Tc
+Tecnexi</value>
+  </data>
+  <data name="&gt;&gt;bttc.Name" xml:space="preserve">
+    <value>bttc</value>
+  </data>
+  <data name="&gt;&gt;bttc.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;bttc.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;bttc.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <metadata name="btmo.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btmo.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btmo.Location" type="System.Drawing.Point, System.Drawing">
+    <value>363, 3</value>
+  </data>
+  <data name="btmo.Size" type="System.Drawing.Size, System.Drawing">
+    <value>67, 62</value>
+  </data>
+  <data name="btmo.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="btmo.Text" xml:space="preserve">
+    <value>42
+Mo
+Molipđen</value>
+  </data>
+  <data name="&gt;&gt;btmo.Name" xml:space="preserve">
+    <value>btmo</value>
+  </data>
+  <data name="&gt;&gt;btmo.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btmo.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;btmo.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <metadata name="btnb.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btnb.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnb.Location" type="System.Drawing.Point, System.Drawing">
+    <value>291, 3</value>
+  </data>
+  <data name="btnb.Size" type="System.Drawing.Size, System.Drawing">
+    <value>66, 62</value>
+  </data>
+  <data name="btnb.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="btnb.Text" xml:space="preserve">
+    <value>41
+Nb
+Niobi</value>
+  </data>
+  <data name="&gt;&gt;btnb.Name" xml:space="preserve">
+    <value>btnb</value>
+  </data>
+  <data name="&gt;&gt;btnb.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnb.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;btnb.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <metadata name="btzr.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btzr.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btzr.Location" type="System.Drawing.Point, System.Drawing">
+    <value>216, 3</value>
+  </data>
+  <data name="btzr.Size" type="System.Drawing.Size, System.Drawing">
+    <value>72, 62</value>
+  </data>
+  <data name="btzr.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="btzr.Text" xml:space="preserve">
+    <value>40
+Zr
+Ziriconi</value>
+  </data>
+  <data name="&gt;&gt;btzr.Name" xml:space="preserve">
+    <value>btzr</value>
+  </data>
+  <data name="&gt;&gt;btzr.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btzr.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;btzr.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <metadata name="bty.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="bty.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="bty.Location" type="System.Drawing.Point, System.Drawing">
+    <value>147, 3</value>
+  </data>
+  <data name="bty.Size" type="System.Drawing.Size, System.Drawing">
+    <value>66, 62</value>
+  </data>
+  <data name="bty.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="bty.Text" xml:space="preserve">
+    <value>39
+Y
+Ytri</value>
+  </data>
+  <data name="&gt;&gt;bty.Name" xml:space="preserve">
+    <value>bty</value>
+  </data>
+  <data name="&gt;&gt;bty.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;bty.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;bty.ZOrder" xml:space="preserve">
+    <value>15</value>
+  </data>
+  <metadata name="btsr.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btsr.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btsr.Location" type="System.Drawing.Point, System.Drawing">
+    <value>75, 3</value>
+  </data>
+  <data name="btsr.Size" type="System.Drawing.Size, System.Drawing">
+    <value>66, 62</value>
+  </data>
+  <data name="btsr.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="btsr.Text" xml:space="preserve">
+    <value>38
+Sr
+Stronti</value>
+  </data>
+  <data name="&gt;&gt;btsr.Name" xml:space="preserve">
+    <value>btsr</value>
+  </data>
+  <data name="&gt;&gt;btsr.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btsr.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;btsr.ZOrder" xml:space="preserve">
+    <value>16</value>
+  </data>
+  <metadata name="btrb.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btrb.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btrb.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 3</value>
+  </data>
+  <data name="btrb.Size" type="System.Drawing.Size, System.Drawing">
+    <value>66, 62</value>
+  </data>
+  <data name="btrb.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="btrb.Text" xml:space="preserve">
+    <value>37
+Rb
+Rubiđi</value>
+  </data>
+  <data name="&gt;&gt;btrb.Name" xml:space="preserve">
+    <value>btrb</value>
+  </data>
+  <data name="&gt;&gt;btrb.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btrb.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;btrb.ZOrder" xml:space="preserve">
+    <value>17</value>
+  </data>
+  <data name="panel1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="panel1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>56, 403</value>
+  </data>
+  <data name="panel1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1282, 71</value>
+  </data>
+  <data name="panel1.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;panel1.Name" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;panel1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panel1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;panel1.ZOrder" xml:space="preserve">
+    <value>51</value>
+  </data>
+  <metadata name="btk.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btk.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btk.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 3</value>
+  </data>
+  <data name="btk.Size" type="System.Drawing.Size, System.Drawing">
+    <value>66, 62</value>
+  </data>
+  <data name="btk.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="btk.Text" xml:space="preserve">
+    <value>19
+K
+Kali</value>
+  </data>
+  <data name="&gt;&gt;btk.Name" xml:space="preserve">
+    <value>btk</value>
+  </data>
+  <data name="&gt;&gt;btk.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btk.Parent" xml:space="preserve">
+    <value>panel2</value>
+  </data>
+  <data name="&gt;&gt;btk.ZOrder" xml:space="preserve">
+    <value>17</value>
+  </data>
+  <metadata name="panel2.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="panel2.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <metadata name="btkr.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btkr.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btkr.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1208, 4</value>
+  </data>
+  <data name="btkr.Size" type="System.Drawing.Size, System.Drawing">
+    <value>66, 62</value>
+  </data>
+  <data name="btkr.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="btkr.Text" xml:space="preserve">
+    <value>36
+Kr
+Kripton</value>
+  </data>
+  <data name="&gt;&gt;btkr.Name" xml:space="preserve">
+    <value>btkr</value>
+  </data>
+  <data name="&gt;&gt;btkr.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btkr.Parent" xml:space="preserve">
+    <value>panel2</value>
+  </data>
+  <data name="&gt;&gt;btkr.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="btbr.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btbr.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btbr.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1138, 3</value>
+  </data>
+  <data name="btbr.Size" type="System.Drawing.Size, System.Drawing">
+    <value>66, 62</value>
+  </data>
+  <data name="btbr.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="btbr.Text" xml:space="preserve">
+    <value>35
+Br
+Brom</value>
+  </data>
+  <data name="&gt;&gt;btbr.Name" xml:space="preserve">
+    <value>btbr</value>
+  </data>
+  <data name="&gt;&gt;btbr.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btbr.Parent" xml:space="preserve">
+    <value>panel2</value>
+  </data>
+  <data name="&gt;&gt;btbr.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <metadata name="btse.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btse.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btse.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1071, 3</value>
+  </data>
+  <data name="btse.Size" type="System.Drawing.Size, System.Drawing">
+    <value>61, 62</value>
+  </data>
+  <data name="btse.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="btse.Text" xml:space="preserve">
+    <value>34
+Se
+Selen</value>
+  </data>
+  <data name="&gt;&gt;btse.Name" xml:space="preserve">
+    <value>btse</value>
+  </data>
+  <data name="&gt;&gt;btse.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btse.Parent" xml:space="preserve">
+    <value>panel2</value>
+  </data>
+  <data name="&gt;&gt;btse.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <metadata name="btas.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btas.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btas.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1004, 3</value>
+  </data>
+  <data name="btas.Size" type="System.Drawing.Size, System.Drawing">
+    <value>61, 62</value>
+  </data>
+  <data name="btas.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="btas.Text" xml:space="preserve">
+    <value>33
+As
+Asen</value>
+  </data>
+  <data name="&gt;&gt;btas.Name" xml:space="preserve">
+    <value>btas</value>
+  </data>
+  <data name="&gt;&gt;btas.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btas.Parent" xml:space="preserve">
+    <value>panel2</value>
+  </data>
+  <data name="&gt;&gt;btas.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <metadata name="btge.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btge.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btge.Location" type="System.Drawing.Point, System.Drawing">
+    <value>932, 3</value>
+  </data>
+  <data name="btge.Size" type="System.Drawing.Size, System.Drawing">
+    <value>66, 62</value>
+  </data>
+  <data name="btge.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="btge.Text" xml:space="preserve">
+    <value>32
+Ge
+Gemani</value>
+  </data>
+  <data name="&gt;&gt;btge.Name" xml:space="preserve">
+    <value>btge</value>
+  </data>
+  <data name="&gt;&gt;btge.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btge.Parent" xml:space="preserve">
+    <value>panel2</value>
+  </data>
+  <data name="&gt;&gt;btge.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <metadata name="btga.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btga.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btga.Location" type="System.Drawing.Point, System.Drawing">
+    <value>864, 3</value>
+  </data>
+  <data name="btga.Size" type="System.Drawing.Size, System.Drawing">
+    <value>62, 62</value>
+  </data>
+  <data name="btga.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="btga.Text" xml:space="preserve">
+    <value>31
+Ga
+Gali</value>
+  </data>
+  <data name="&gt;&gt;btga.Name" xml:space="preserve">
+    <value>btga</value>
+  </data>
+  <data name="&gt;&gt;btga.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btga.Parent" xml:space="preserve">
+    <value>panel2</value>
+  </data>
+  <data name="&gt;&gt;btga.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <metadata name="btzn.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btzn.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btzn.Location" type="System.Drawing.Point, System.Drawing">
+    <value>785, 3</value>
+  </data>
+  <data name="btzn.Size" type="System.Drawing.Size, System.Drawing">
+    <value>73, 62</value>
+  </data>
+  <data name="btzn.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="btzn.Text" xml:space="preserve">
+    <value>30
+Zn
+Kẽm</value>
+  </data>
+  <data name="&gt;&gt;btzn.Name" xml:space="preserve">
+    <value>btzn</value>
+  </data>
+  <data name="&gt;&gt;btzn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btzn.Parent" xml:space="preserve">
+    <value>panel2</value>
+  </data>
+  <data name="&gt;&gt;btzn.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <metadata name="btcu.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btcu.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btcu.Location" type="System.Drawing.Point, System.Drawing">
+    <value>713, 3</value>
+  </data>
+  <data name="btcu.Size" type="System.Drawing.Size, System.Drawing">
+    <value>66, 62</value>
+  </data>
+  <data name="btcu.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="btcu.Text" xml:space="preserve">
+    <value>29
+Cu
+Đồng</value>
+  </data>
+  <data name="&gt;&gt;btcu.Name" xml:space="preserve">
+    <value>btcu</value>
+  </data>
+  <data name="&gt;&gt;btcu.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btcu.Parent" xml:space="preserve">
+    <value>panel2</value>
+  </data>
+  <data name="&gt;&gt;btcu.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <metadata name="btni.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btni.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btni.Location" type="System.Drawing.Point, System.Drawing">
+    <value>647, 3</value>
+  </data>
+  <data name="btni.Size" type="System.Drawing.Size, System.Drawing">
+    <value>60, 62</value>
+  </data>
+  <data name="btni.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="btni.Text" xml:space="preserve">
+    <value>28
+Ni
+Niken</value>
+  </data>
+  <data name="&gt;&gt;btni.Name" xml:space="preserve">
+    <value>btni</value>
+  </data>
+  <data name="&gt;&gt;btni.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btni.Parent" xml:space="preserve">
+    <value>panel2</value>
+  </data>
+  <data name="&gt;&gt;btni.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <metadata name="btco.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btco.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btco.Location" type="System.Drawing.Point, System.Drawing">
+    <value>575, 3</value>
+  </data>
+  <data name="btco.Size" type="System.Drawing.Size, System.Drawing">
+    <value>66, 62</value>
+  </data>
+  <data name="btco.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="btco.Text" xml:space="preserve">
+    <value>27
+Co
+Coban</value>
+  </data>
+  <data name="&gt;&gt;btco.Name" xml:space="preserve">
+    <value>btco</value>
+  </data>
+  <data name="&gt;&gt;btco.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btco.Parent" xml:space="preserve">
+    <value>panel2</value>
+  </data>
+  <data name="&gt;&gt;btco.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <metadata name="btfe.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btfe.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btfe.Location" type="System.Drawing.Point, System.Drawing">
+    <value>503, 3</value>
+  </data>
+  <data name="btfe.Size" type="System.Drawing.Size, System.Drawing">
+    <value>66, 62</value>
+  </data>
+  <data name="btfe.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="btfe.Text" xml:space="preserve">
+    <value>26
+Fe
+Sắt</value>
+  </data>
+  <data name="&gt;&gt;btfe.Name" xml:space="preserve">
+    <value>btfe</value>
+  </data>
+  <data name="&gt;&gt;btfe.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btfe.Parent" xml:space="preserve">
+    <value>panel2</value>
+  </data>
+  <data name="&gt;&gt;btfe.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <metadata name="btmn.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btmn.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btmn.Location" type="System.Drawing.Point, System.Drawing">
+    <value>436, 3</value>
+  </data>
+  <data name="btmn.Size" type="System.Drawing.Size, System.Drawing">
+    <value>61, 62</value>
+  </data>
+  <data name="btmn.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="btmn.Text" xml:space="preserve">
+    <value>25
+Mn
+Mangan</value>
+  </data>
+  <data name="&gt;&gt;btmn.Name" xml:space="preserve">
+    <value>btmn</value>
+  </data>
+  <data name="&gt;&gt;btmn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btmn.Parent" xml:space="preserve">
+    <value>panel2</value>
+  </data>
+  <data name="&gt;&gt;btmn.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <metadata name="btcr.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btcr.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btcr.Location" type="System.Drawing.Point, System.Drawing">
+    <value>363, 3</value>
+  </data>
+  <data name="btcr.Size" type="System.Drawing.Size, System.Drawing">
+    <value>67, 62</value>
+  </data>
+  <data name="btcr.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="btcr.Text" xml:space="preserve">
+    <value>24
+Cr
+Crom</value>
+  </data>
+  <data name="&gt;&gt;btcr.Name" xml:space="preserve">
+    <value>btcr</value>
+  </data>
+  <data name="&gt;&gt;btcr.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btcr.Parent" xml:space="preserve">
+    <value>panel2</value>
+  </data>
+  <data name="&gt;&gt;btcr.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <metadata name="btv.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btv.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btv.Location" type="System.Drawing.Point, System.Drawing">
+    <value>291, 4</value>
+  </data>
+  <data name="btv.Size" type="System.Drawing.Size, System.Drawing">
+    <value>66, 62</value>
+  </data>
+  <data name="btv.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="btv.Text" xml:space="preserve">
+    <value>23
+V
+Vanađi</value>
+  </data>
+  <data name="&gt;&gt;btv.Name" xml:space="preserve">
+    <value>btv</value>
+  </data>
+  <data name="&gt;&gt;btv.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btv.Parent" xml:space="preserve">
+    <value>panel2</value>
+  </data>
+  <data name="&gt;&gt;btv.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <metadata name="btti.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btti.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btti.Location" type="System.Drawing.Point, System.Drawing">
+    <value>216, 3</value>
+  </data>
+  <data name="btti.Size" type="System.Drawing.Size, System.Drawing">
+    <value>72, 62</value>
+  </data>
+  <data name="btti.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="btti.Text" xml:space="preserve">
+    <value>22
+Ti
+Titan</value>
+  </data>
+  <data name="&gt;&gt;btti.Name" xml:space="preserve">
+    <value>btti</value>
+  </data>
+  <data name="&gt;&gt;btti.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btti.Parent" xml:space="preserve">
+    <value>panel2</value>
+  </data>
+  <data name="&gt;&gt;btti.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <metadata name="btsc.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btsc.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btsc.Location" type="System.Drawing.Point, System.Drawing">
+    <value>147, 3</value>
+  </data>
+  <data name="btsc.Size" type="System.Drawing.Size, System.Drawing">
+    <value>66, 62</value>
+  </data>
+  <data name="btsc.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="btsc.Text" xml:space="preserve">
+    <value>21
+Sc
+Scanđi</value>
+  </data>
+  <data name="&gt;&gt;btsc.Name" xml:space="preserve">
+    <value>btsc</value>
+  </data>
+  <data name="&gt;&gt;btsc.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btsc.Parent" xml:space="preserve">
+    <value>panel2</value>
+  </data>
+  <data name="&gt;&gt;btsc.ZOrder" xml:space="preserve">
+    <value>15</value>
+  </data>
+  <metadata name="btca.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btca.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btca.Location" type="System.Drawing.Point, System.Drawing">
+    <value>75, 3</value>
+  </data>
+  <data name="btca.Size" type="System.Drawing.Size, System.Drawing">
+    <value>66, 62</value>
+  </data>
+  <data name="btca.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="btca.Text" xml:space="preserve">
+    <value>20
+Ca
+Canxi</value>
+  </data>
+  <data name="&gt;&gt;btca.Name" xml:space="preserve">
+    <value>btca</value>
+  </data>
+  <data name="&gt;&gt;btca.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btca.Parent" xml:space="preserve">
+    <value>panel2</value>
+  </data>
+  <data name="&gt;&gt;btca.ZOrder" xml:space="preserve">
+    <value>16</value>
+  </data>
+  <data name="panel2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="panel2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>56, 331</value>
+  </data>
+  <data name="panel2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1282, 69</value>
+  </data>
+  <data name="panel2.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;panel2.Name" xml:space="preserve">
+    <value>panel2</value>
+  </data>
+  <data name="&gt;&gt;panel2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panel2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;panel2.ZOrder" xml:space="preserve">
+    <value>49</value>
+  </data>
+  <metadata name="btna.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btna.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <data name="btna.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="btna.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btna.Location" type="System.Drawing.Point, System.Drawing">
+    <value>56, 263</value>
+  </data>
+  <data name="btna.Size" type="System.Drawing.Size, System.Drawing">
+    <value>66, 62</value>
+  </data>
+  <data name="btna.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="btna.Text" xml:space="preserve">
+    <value>11
+Na
+Natri</value>
+  </data>
+  <data name="&gt;&gt;btna.Name" xml:space="preserve">
+    <value>btna</value>
+  </data>
+  <data name="&gt;&gt;btna.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btna.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btna.ZOrder" xml:space="preserve">
+    <value>45</value>
+  </data>
+  <metadata name="btmg.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btmg.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <data name="btmg.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="btmg.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btmg.Location" type="System.Drawing.Point, System.Drawing">
+    <value>128, 264</value>
+  </data>
+  <data name="btmg.Size" type="System.Drawing.Size, System.Drawing">
+    <value>66, 62</value>
+  </data>
+  <data name="btmg.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="btmg.Text" xml:space="preserve">
+    <value>12
+Mg
+Magie</value>
+  </data>
+  <data name="&gt;&gt;btmg.Name" xml:space="preserve">
+    <value>btmg</value>
+  </data>
+  <data name="&gt;&gt;btmg.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btmg.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btmg.ZOrder" xml:space="preserve">
+    <value>46</value>
+  </data>
+  <metadata name="btar.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btar.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <data name="btar.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="btar.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btar.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1263, 264</value>
+  </data>
+  <data name="btar.Size" type="System.Drawing.Size, System.Drawing">
+    <value>66, 62</value>
+  </data>
+  <data name="btar.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="btar.Text" xml:space="preserve">
+    <value>18
+Ar
+Agon</value>
+  </data>
+  <data name="&gt;&gt;btar.Name" xml:space="preserve">
+    <value>btar</value>
+  </data>
+  <data name="&gt;&gt;btar.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btar.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btar.ZOrder" xml:space="preserve">
+    <value>33</value>
+  </data>
+  <metadata name="btcl.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btcl.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <data name="btcl.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="btcl.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btcl.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1191, 264</value>
+  </data>
+  <data name="btcl.Size" type="System.Drawing.Size, System.Drawing">
+    <value>66, 62</value>
+  </data>
+  <data name="btcl.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="btcl.Text" xml:space="preserve">
+    <value>17
+Cl
+Clo</value>
+  </data>
+  <data name="&gt;&gt;btcl.Name" xml:space="preserve">
+    <value>btcl</value>
+  </data>
+  <data name="&gt;&gt;btcl.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btcl.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btcl.ZOrder" xml:space="preserve">
+    <value>34</value>
+  </data>
+  <metadata name="bts.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="bts.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <data name="bts.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="bts.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="bts.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1124, 264</value>
+  </data>
+  <data name="bts.Size" type="System.Drawing.Size, System.Drawing">
+    <value>61, 62</value>
+  </data>
+  <data name="bts.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="bts.Text" xml:space="preserve">
+    <value>16
+S
+Lưu Huỳnh</value>
+  </data>
+  <data name="&gt;&gt;bts.Name" xml:space="preserve">
+    <value>bts</value>
+  </data>
+  <data name="&gt;&gt;bts.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;bts.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;bts.ZOrder" xml:space="preserve">
+    <value>35</value>
+  </data>
+  <metadata name="btp.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btp.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <data name="btp.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="btp.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btp.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1057, 264</value>
+  </data>
+  <data name="btp.Size" type="System.Drawing.Size, System.Drawing">
+    <value>61, 62</value>
+  </data>
+  <data name="btp.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="btp.Text" xml:space="preserve">
+    <value>15
+P
+Photpho</value>
+  </data>
+  <data name="&gt;&gt;btp.Name" xml:space="preserve">
+    <value>btp</value>
+  </data>
+  <data name="&gt;&gt;btp.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btp.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btp.ZOrder" xml:space="preserve">
+    <value>36</value>
+  </data>
+  <metadata name="btsi.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btsi.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <data name="btsi.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="btsi.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btsi.Location" type="System.Drawing.Point, System.Drawing">
+    <value>985, 264</value>
+  </data>
+  <data name="btsi.Size" type="System.Drawing.Size, System.Drawing">
+    <value>66, 62</value>
+  </data>
+  <data name="btsi.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="btsi.Text" xml:space="preserve">
+    <value>14
+Si
+Silic</value>
+  </data>
+  <data name="&gt;&gt;btsi.Name" xml:space="preserve">
+    <value>btsi</value>
+  </data>
+  <data name="&gt;&gt;btsi.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btsi.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btsi.ZOrder" xml:space="preserve">
+    <value>37</value>
+  </data>
+  <metadata name="btal.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btal.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <data name="btal.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="btal.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btal.Location" type="System.Drawing.Point, System.Drawing">
+    <value>920, 264</value>
+  </data>
+  <data name="btal.Size" type="System.Drawing.Size, System.Drawing">
+    <value>59, 62</value>
+  </data>
+  <data name="btal.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="btal.Text" xml:space="preserve">
+    <value>13
+Al
+Nhôm</value>
+  </data>
+  <data name="&gt;&gt;btal.Name" xml:space="preserve">
+    <value>btal</value>
+  </data>
+  <data name="&gt;&gt;btal.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btal.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btal.ZOrder" xml:space="preserve">
+    <value>38</value>
+  </data>
+  <metadata name="bili.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="bili.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <data name="bili.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="bili.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="bili.Location" type="System.Drawing.Point, System.Drawing">
+    <value>56, 196</value>
+  </data>
+  <data name="bili.Size" type="System.Drawing.Size, System.Drawing">
+    <value>66, 62</value>
+  </data>
+  <data name="bili.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="bili.Text" xml:space="preserve">
+    <value>3
+Li
+Liti</value>
+  </data>
+  <data name="&gt;&gt;bili.Name" xml:space="preserve">
+    <value>bili</value>
+  </data>
+  <data name="&gt;&gt;bili.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;bili.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;bili.ZOrder" xml:space="preserve">
+    <value>52</value>
+  </data>
+  <metadata name="btbe.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btbe.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <data name="btbe.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="btbe.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btbe.Location" type="System.Drawing.Point, System.Drawing">
+    <value>128, 196</value>
+  </data>
+  <data name="btbe.Size" type="System.Drawing.Size, System.Drawing">
+    <value>66, 62</value>
+  </data>
+  <data name="btbe.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="btbe.Text" xml:space="preserve">
+    <value>4
+Be
+Beri</value>
+  </data>
+  <data name="&gt;&gt;btbe.Name" xml:space="preserve">
+    <value>btbe</value>
+  </data>
+  <data name="&gt;&gt;btbe.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btbe.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btbe.ZOrder" xml:space="preserve">
+    <value>50</value>
+  </data>
+  <metadata name="btne.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btne.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <data name="btne.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="btne.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btne.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1265, 196</value>
+  </data>
+  <data name="btne.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 62</value>
+  </data>
+  <data name="btne.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="btne.Text" xml:space="preserve">
+    <value>10
+Ne
+Neon</value>
+  </data>
+  <data name="&gt;&gt;btne.Name" xml:space="preserve">
+    <value>btne</value>
+  </data>
+  <data name="&gt;&gt;btne.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btne.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btne.ZOrder" xml:space="preserve">
+    <value>39</value>
+  </data>
+  <metadata name="btf.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btf.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <data name="btf.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="btf.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btf.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1191, 196</value>
+  </data>
+  <data name="btf.Size" type="System.Drawing.Size, System.Drawing">
+    <value>66, 62</value>
+  </data>
+  <data name="btf.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="btf.Text" xml:space="preserve">
+    <value>9
+F
+Flo</value>
+  </data>
+  <data name="&gt;&gt;btf.Name" xml:space="preserve">
+    <value>btf</value>
+  </data>
+  <data name="&gt;&gt;btf.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btf.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btf.ZOrder" xml:space="preserve">
+    <value>40</value>
+  </data>
+  <metadata name="bto.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="bto.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <data name="bto.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="bto.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="bto.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1124, 196</value>
+  </data>
+  <data name="bto.Size" type="System.Drawing.Size, System.Drawing">
+    <value>61, 62</value>
+  </data>
+  <data name="bto.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="bto.Text" xml:space="preserve">
+    <value>8
+O
+Oxi</value>
+  </data>
+  <data name="&gt;&gt;bto.Name" xml:space="preserve">
+    <value>bto</value>
+  </data>
+  <data name="&gt;&gt;bto.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;bto.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;bto.ZOrder" xml:space="preserve">
+    <value>41</value>
+  </data>
+  <metadata name="btn.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btn.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <data name="btn.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="btn.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1057, 196</value>
+  </data>
+  <data name="btn.Size" type="System.Drawing.Size, System.Drawing">
+    <value>61, 62</value>
+  </data>
+  <data name="btn.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="btn.Text" xml:space="preserve">
+    <value>7
+N
+Nito</value>
+  </data>
+  <data name="&gt;&gt;btn.Name" xml:space="preserve">
+    <value>btn</value>
+  </data>
+  <data name="&gt;&gt;btn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn.ZOrder" xml:space="preserve">
+    <value>42</value>
+  </data>
+  <metadata name="btc.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btc.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <data name="btc.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="btc.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btc.Location" type="System.Drawing.Point, System.Drawing">
+    <value>985, 196</value>
+  </data>
+  <data name="btc.Size" type="System.Drawing.Size, System.Drawing">
+    <value>66, 62</value>
+  </data>
+  <data name="btc.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="btc.Text" xml:space="preserve">
+    <value>6
+C
+Cacbon</value>
+  </data>
+  <data name="&gt;&gt;btc.Name" xml:space="preserve">
+    <value>btc</value>
+  </data>
+  <data name="&gt;&gt;btc.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btc.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btc.ZOrder" xml:space="preserve">
+    <value>43</value>
+  </data>
+  <metadata name="btb.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btb.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <data name="btb.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="btb.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btb.Location" type="System.Drawing.Point, System.Drawing">
+    <value>920, 196</value>
+  </data>
+  <data name="btb.Size" type="System.Drawing.Size, System.Drawing">
+    <value>59, 62</value>
+  </data>
+  <data name="btb.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="btb.Text" xml:space="preserve">
+    <value>5
+B
+Bo</value>
+  </data>
+  <data name="&gt;&gt;btb.Name" xml:space="preserve">
+    <value>btb</value>
+  </data>
+  <data name="&gt;&gt;btb.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btb.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btb.ZOrder" xml:space="preserve">
+    <value>44</value>
+  </data>
+  <metadata name="bth.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="bth.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <data name="bth.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="bth.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="bth.Location" type="System.Drawing.Point, System.Drawing">
+    <value>56, 128</value>
+  </data>
+  <data name="bth.Size" type="System.Drawing.Size, System.Drawing">
+    <value>66, 62</value>
+  </data>
+  <data name="bth.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="bth.Text" xml:space="preserve">
+    <value>1
+H
+Hiđrô</value>
+  </data>
+  <data name="&gt;&gt;bth.Name" xml:space="preserve">
+    <value>bth</value>
+  </data>
+  <data name="&gt;&gt;bth.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;bth.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;bth.ZOrder" xml:space="preserve">
+    <value>48</value>
+  </data>
+  <metadata name="bthe.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="bthe.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <data name="bthe.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="bthe.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="bthe.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1263, 128</value>
+  </data>
+  <data name="bthe.Size" type="System.Drawing.Size, System.Drawing">
+    <value>66, 62</value>
+  </data>
+  <data name="bthe.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="bthe.Text" xml:space="preserve">
+    <value>2
+He
+Heli</value>
+  </data>
+  <data name="&gt;&gt;bthe.Name" xml:space="preserve">
+    <value>bthe</value>
+  </data>
+  <data name="&gt;&gt;bthe.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;bthe.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;bthe.ZOrder" xml:space="preserve">
+    <value>47</value>
+  </data>
   <metadata name="mnschinh.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
   </metadata>
+  <metadata name="mnschinh.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="mnschinh.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 9.75pt</value>
+  </data>
+  <data name="kienthuchoahoacoban.Size" type="System.Drawing.Size, System.Drawing">
+    <value>185, 21</value>
+  </data>
+  <data name="kienthuchoahoacoban.Text" xml:space="preserve">
+    <value>Kiến thức hóa học cơ bản</value>
+  </data>
+  <data name="bảngTínhTanToolStripMenuItem1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>152, 22</value>
+  </data>
+  <data name="bảngTínhTanToolStripMenuItem1.Text" xml:space="preserve">
+    <value>Bảng tính tan</value>
+  </data>
+  <data name="bảngTínhTanToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>112, 21</value>
+  </data>
+  <data name="bảngTínhTanToolStripMenuItem.Text" xml:space="preserve">
+    <value>Bảng tính tan</value>
+  </data>
+  <data name="biểuĐồĐiệnLoạtToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>175, 22</value>
+  </data>
+  <data name="biểuĐồĐiệnLoạtToolStripMenuItem.Text" xml:space="preserve">
+    <value>Biểu đồ điện loạt</value>
+  </data>
+  <data name="điệnLaToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>88, 21</value>
+  </data>
+  <data name="điệnLaToolStripMenuItem.Text" xml:space="preserve">
+    <value>Điện loạt</value>
+  </data>
+  <data name="biểuĐồToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>427, 22</value>
+  </data>
+  <data name="biểuĐồToolStripMenuItem.Text" xml:space="preserve">
+    <value>Biểu đồ phân bố khối lượng các nguyên tố trong vỏ Trái Đất</value>
+  </data>
+  <data name="tỉLệPhầnTrămCácNguyênTốTrongVỏTráiĐấtToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>197, 21</value>
+  </data>
+  <data name="tỉLệPhầnTrămCácNguyênTốTrongVỏTráiĐấtToolStripMenuItem.Text" xml:space="preserve">
+    <value>Tỉ lệ, so sánh các nguyên tố</value>
+  </data>
+  <data name="khamphaCaMau.Size" type="System.Drawing.Size, System.Drawing">
+    <value>144, 21</value>
+  </data>
+  <data name="khamphaCaMau.Text" xml:space="preserve">
+    <value>Khám phá Cà Mau</value>
+  </data>
+  <data name="giảiPhươngTrìnhBậcNhấtToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>271, 22</value>
+  </data>
+  <data name="giảiPhươngTrìnhBậcNhấtToolStripMenuItem.Text" xml:space="preserve">
+    <value>Giải phương trình bậc nhất</value>
+  </data>
+  <data name="giảiPhươngTrìnhBậcHaiToolStripMenuItem1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>271, 22</value>
+  </data>
+  <data name="giảiPhươngTrìnhBậcHaiToolStripMenuItem1.Text" xml:space="preserve">
+    <value>Giải phương trình bậc hai</value>
+  </data>
+  <data name="giảiPhươngTrìnhBậcNhấtHaiẨnToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>271, 22</value>
+  </data>
+  <data name="giảiPhươngTrìnhBậcNhấtHaiẨnToolStripMenuItem.Text" xml:space="preserve">
+    <value>Giải phương trình bậc nhất hai ẩn</value>
+  </data>
+  <data name="máyTinh.Size" type="System.Drawing.Size, System.Drawing">
+    <value>271, 22</value>
+  </data>
+  <data name="máyTinh.Text" xml:space="preserve">
+    <value>Máy Tính</value>
+  </data>
+  <data name="giảiPhươngTrìnhBậcHaiToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 22</value>
+  </data>
+  <data name="giảiPhươngTrìnhBậcHaiToolStripMenuItem.Text" xml:space="preserve">
+    <value>Toán</value>
+  </data>
+  <data name="chuyểnĐổiCácĐơnVịToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>204, 22</value>
+  </data>
+  <data name="chuyểnĐổiCácĐơnVịToolStripMenuItem.Text" xml:space="preserve">
+    <value>Chuyển đổi các đơn vị</value>
+  </data>
+  <data name="vậtLíToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 22</value>
+  </data>
+  <data name="vậtLíToolStripMenuItem.Text" xml:space="preserve">
+    <value>Vật lí</value>
+  </data>
+  <data name="tínhNồngĐộPhầnTrămDungDịchToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>280, 22</value>
+  </data>
+  <data name="tínhNồngĐộPhầnTrămDungDịchToolStripMenuItem.Text" xml:space="preserve">
+    <value>Tính nồng độ phần trăm dung dịch</value>
+  </data>
+  <data name="tínhNồngĐộMolToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>280, 22</value>
+  </data>
+  <data name="tínhNồngĐộMolToolStripMenuItem.Text" xml:space="preserve">
+    <value>Tính nồng độ Mol</value>
+  </data>
+  <data name="hóaHọcToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 22</value>
+  </data>
+  <data name="hóaHọcToolStripMenuItem.Text" xml:space="preserve">
+    <value>Hóa học</value>
+  </data>
+  <data name="cácTínhNăngKhácToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>145, 21</value>
+  </data>
+  <data name="cácTínhNăngKhácToolStripMenuItem.Text" xml:space="preserve">
+    <value>Các tính năng khác</value>
+  </data>
+  <data name="cấuHìnhToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>126, 22</value>
+  </data>
+  <data name="cấuHìnhToolStripMenuItem.Text" xml:space="preserve">
+    <value>Cấu hình</value>
+  </data>
+  <data name="thoátToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>126, 22</value>
+  </data>
+  <data name="thoátToolStripMenuItem.Text" xml:space="preserve">
+    <value>Thoát</value>
+  </data>
+  <data name="càiĐặtToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>77, 21</value>
+  </data>
+  <data name="càiĐặtToolStripMenuItem.Text" xml:space="preserve">
+    <value>Cài đặt</value>
+  </data>
+  <data name="thôngTinPhầnMềmToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>157, 21</value>
+  </data>
+  <data name="thôngTinPhầnMềmToolStripMenuItem.Text" xml:space="preserve">
+    <value>Thông tin phần mềm</value>
+  </data>
+  <data name="mnschinh.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="mnschinh.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1370, 25</value>
+  </data>
+  <data name="mnschinh.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="mnschinh.Text" xml:space="preserve">
+    <value>menuStrip1</value>
+  </data>
+  <data name="&gt;&gt;mnschinh.Name" xml:space="preserve">
+    <value>mnschinh</value>
+  </data>
+  <data name="&gt;&gt;mnschinh.Type" xml:space="preserve">
+    <value>System.Windows.Forms.MenuStrip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;mnschinh.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;mnschinh.ZOrder" xml:space="preserve">
+    <value>55</value>
+  </data>
+  <metadata name="btnla.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btnla.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <data name="btnla.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="btnla.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnla.Location" type="System.Drawing.Point, System.Drawing">
+    <value>200, 622</value>
+  </data>
+  <data name="btnla.Size" type="System.Drawing.Size, System.Drawing">
+    <value>69, 58</value>
+  </data>
+  <data name="btnla.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="btnla.Text" xml:space="preserve">
+    <value>57
+La
+Lantan</value>
+  </data>
+  <data name="&gt;&gt;btnla.Name" xml:space="preserve">
+    <value>btnla</value>
+  </data>
+  <data name="&gt;&gt;btnla.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnla.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnla.ZOrder" xml:space="preserve">
+    <value>31</value>
+  </data>
+  <metadata name="btngd.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btngd.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <data name="btngd.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="btngd.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btngd.Location" type="System.Drawing.Point, System.Drawing">
+    <value>703, 622</value>
+  </data>
+  <data name="btngd.Size" type="System.Drawing.Size, System.Drawing">
+    <value>60, 58</value>
+  </data>
+  <data name="btngd.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="btngd.Text" xml:space="preserve">
+    <value>64
+Gd
+Gaođolini</value>
+  </data>
+  <data name="&gt;&gt;btngd.Name" xml:space="preserve">
+    <value>btngd</value>
+  </data>
+  <data name="&gt;&gt;btngd.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btngd.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btngd.ZOrder" xml:space="preserve">
+    <value>30</value>
+  </data>
+  <metadata name="btneu.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btneu.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <data name="btneu.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="btneu.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btneu.Location" type="System.Drawing.Point, System.Drawing">
+    <value>632, 622</value>
+  </data>
+  <data name="btneu.Size" type="System.Drawing.Size, System.Drawing">
+    <value>65, 58</value>
+  </data>
+  <data name="btneu.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="btneu.Text" xml:space="preserve">
+    <value>63
+Eu
+Europi</value>
+  </data>
+  <data name="&gt;&gt;btneu.Name" xml:space="preserve">
+    <value>btneu</value>
+  </data>
+  <data name="&gt;&gt;btneu.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btneu.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btneu.ZOrder" xml:space="preserve">
+    <value>29</value>
+  </data>
+  <metadata name="btntb.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btntb.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <data name="btntb.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="btntb.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btntb.Location" type="System.Drawing.Point, System.Drawing">
+    <value>769, 622</value>
+  </data>
+  <data name="btntb.Size" type="System.Drawing.Size, System.Drawing">
+    <value>66, 58</value>
+  </data>
+  <data name="btntb.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="btntb.Text" xml:space="preserve">
+    <value>65
+Tb
+Tecbi</value>
+  </data>
+  <data name="&gt;&gt;btntb.Name" xml:space="preserve">
+    <value>btntb</value>
+  </data>
+  <data name="&gt;&gt;btntb.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btntb.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btntb.ZOrder" xml:space="preserve">
+    <value>28</value>
+  </data>
+  <metadata name="btnsm.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btnsm.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <data name="btnsm.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="btnsm.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnsm.Location" type="System.Drawing.Point, System.Drawing">
+    <value>560, 623</value>
+  </data>
+  <data name="btnsm.Size" type="System.Drawing.Size, System.Drawing">
+    <value>65, 58</value>
+  </data>
+  <data name="btnsm.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="btnsm.Text" xml:space="preserve">
+    <value>62
+Sm
+Samari</value>
+  </data>
+  <data name="&gt;&gt;btnsm.Name" xml:space="preserve">
+    <value>btnsm</value>
+  </data>
+  <data name="&gt;&gt;btnsm.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnsm.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnsm.ZOrder" xml:space="preserve">
+    <value>27</value>
+  </data>
+  <metadata name="btnpm.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btnpm.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <data name="btnpm.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="btnpm.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnpm.Location" type="System.Drawing.Point, System.Drawing">
+    <value>489, 623</value>
+  </data>
+  <data name="btnpm.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 58</value>
+  </data>
+  <data name="btnpm.TabIndex" type="System.Int32, mscorlib">
+    <value>17</value>
+  </data>
+  <data name="btnpm.Text" xml:space="preserve">
+    <value>61
+Pm
+Prometi</value>
+  </data>
+  <data name="&gt;&gt;btnpm.Name" xml:space="preserve">
+    <value>btnpm</value>
+  </data>
+  <data name="&gt;&gt;btnpm.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnpm.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnpm.ZOrder" xml:space="preserve">
+    <value>26</value>
+  </data>
+  <metadata name="btnnd.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btnnd.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <data name="btnnd.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="btnnd.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnnd.Location" type="System.Drawing.Point, System.Drawing">
+    <value>419, 624</value>
+  </data>
+  <data name="btnnd.Size" type="System.Drawing.Size, System.Drawing">
+    <value>67, 57</value>
+  </data>
+  <data name="btnnd.TabIndex" type="System.Int32, mscorlib">
+    <value>18</value>
+  </data>
+  <data name="btnnd.Text" xml:space="preserve">
+    <value>60
+Nd
+Neođim</value>
+  </data>
+  <data name="&gt;&gt;btnnd.Name" xml:space="preserve">
+    <value>btnnd</value>
+  </data>
+  <data name="&gt;&gt;btnnd.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnnd.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnnd.ZOrder" xml:space="preserve">
+    <value>25</value>
+  </data>
+  <metadata name="btnpr.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btnpr.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <data name="btnpr.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="btnpr.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnpr.Location" type="System.Drawing.Point, System.Drawing">
+    <value>347, 622</value>
+  </data>
+  <data name="btnpr.Size" type="System.Drawing.Size, System.Drawing">
+    <value>69, 58</value>
+  </data>
+  <data name="btnpr.TabIndex" type="System.Int32, mscorlib">
+    <value>19</value>
+  </data>
+  <data name="btnpr.Text" xml:space="preserve">
+    <value>59
+Pr
+Prazeođim</value>
+  </data>
+  <data name="&gt;&gt;btnpr.Name" xml:space="preserve">
+    <value>btnpr</value>
+  </data>
+  <data name="&gt;&gt;btnpr.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnpr.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnpr.ZOrder" xml:space="preserve">
+    <value>24</value>
+  </data>
+  <metadata name="btnce.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btnce.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <data name="btnce.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="btnce.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnce.Location" type="System.Drawing.Point, System.Drawing">
+    <value>272, 623</value>
+  </data>
+  <data name="btnce.Size" type="System.Drawing.Size, System.Drawing">
+    <value>69, 58</value>
+  </data>
+  <data name="btnce.TabIndex" type="System.Int32, mscorlib">
+    <value>20</value>
+  </data>
+  <data name="btnce.Text" xml:space="preserve">
+    <value>58
+Ce
+Xeri</value>
+  </data>
+  <data name="&gt;&gt;btnce.Name" xml:space="preserve">
+    <value>btnce</value>
+  </data>
+  <data name="&gt;&gt;btnce.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnce.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnce.ZOrder" xml:space="preserve">
+    <value>23</value>
+  </data>
+  <metadata name="btnyb.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btnyb.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <data name="btnyb.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="btnyb.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnyb.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1127, 623</value>
+  </data>
+  <data name="btnyb.Size" type="System.Drawing.Size, System.Drawing">
+    <value>61, 58</value>
+  </data>
+  <data name="btnyb.TabIndex" type="System.Int32, mscorlib">
+    <value>21</value>
+  </data>
+  <data name="btnyb.Text" xml:space="preserve">
+    <value>70
+Yb
+Ytecbi</value>
+  </data>
+  <data name="&gt;&gt;btnyb.Name" xml:space="preserve">
+    <value>btnyb</value>
+  </data>
+  <data name="&gt;&gt;btnyb.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnyb.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnyb.ZOrder" xml:space="preserve">
+    <value>22</value>
+  </data>
+  <metadata name="btntm.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btntm.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <data name="btntm.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="btntm.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btntm.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1060, 623</value>
+  </data>
+  <data name="btntm.Size" type="System.Drawing.Size, System.Drawing">
+    <value>61, 58</value>
+  </data>
+  <data name="btntm.TabIndex" type="System.Int32, mscorlib">
+    <value>22</value>
+  </data>
+  <data name="btntm.Text" xml:space="preserve">
+    <value>69
+Tm
+Tuli</value>
+  </data>
+  <data name="&gt;&gt;btntm.Name" xml:space="preserve">
+    <value>btntm</value>
+  </data>
+  <data name="&gt;&gt;btntm.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btntm.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btntm.ZOrder" xml:space="preserve">
+    <value>21</value>
+  </data>
+  <metadata name="btner.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btner.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <data name="btner.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="btner.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btner.Location" type="System.Drawing.Point, System.Drawing">
+    <value>995, 622</value>
+  </data>
+  <data name="btner.Size" type="System.Drawing.Size, System.Drawing">
+    <value>59, 58</value>
+  </data>
+  <data name="btner.TabIndex" type="System.Int32, mscorlib">
+    <value>23</value>
+  </data>
+  <data name="btner.Text" xml:space="preserve">
+    <value>68
+Er
+Eribi</value>
+  </data>
+  <data name="&gt;&gt;btner.Name" xml:space="preserve">
+    <value>btner</value>
+  </data>
+  <data name="&gt;&gt;btner.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btner.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btner.ZOrder" xml:space="preserve">
+    <value>20</value>
+  </data>
+  <metadata name="tbnho.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="tbnho.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <data name="tbnho.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="tbnho.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="tbnho.Location" type="System.Drawing.Point, System.Drawing">
+    <value>920, 623</value>
+  </data>
+  <data name="tbnho.Size" type="System.Drawing.Size, System.Drawing">
+    <value>69, 58</value>
+  </data>
+  <data name="tbnho.TabIndex" type="System.Int32, mscorlib">
+    <value>24</value>
+  </data>
+  <data name="tbnho.Text" xml:space="preserve">
+    <value>67
+Ho
+Holmi</value>
+  </data>
+  <data name="&gt;&gt;tbnho.Name" xml:space="preserve">
+    <value>tbnho</value>
+  </data>
+  <data name="&gt;&gt;tbnho.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tbnho.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;tbnho.ZOrder" xml:space="preserve">
+    <value>19</value>
+  </data>
+  <metadata name="btndy.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btndy.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <data name="btndy.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="btndy.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btndy.Location" type="System.Drawing.Point, System.Drawing">
+    <value>841, 622</value>
+  </data>
+  <data name="btndy.Size" type="System.Drawing.Size, System.Drawing">
+    <value>73, 58</value>
+  </data>
+  <data name="btndy.TabIndex" type="System.Int32, mscorlib">
+    <value>25</value>
+  </data>
+  <data name="btndy.Text" xml:space="preserve">
+    <value>66
+Dy
+Đysprosi</value>
+  </data>
+  <data name="&gt;&gt;btndy.Name" xml:space="preserve">
+    <value>btndy</value>
+  </data>
+  <data name="&gt;&gt;btndy.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btndy.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btndy.ZOrder" xml:space="preserve">
+    <value>18</value>
+  </data>
+  <metadata name="btnac.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btnac.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <data name="btnac.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="btnac.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnac.Location" type="System.Drawing.Point, System.Drawing">
+    <value>200, 686</value>
+  </data>
+  <data name="btnac.Size" type="System.Drawing.Size, System.Drawing">
+    <value>66, 57</value>
+  </data>
+  <data name="btnac.TabIndex" type="System.Int32, mscorlib">
+    <value>26</value>
+  </data>
+  <data name="btnac.Text" xml:space="preserve">
+    <value>89
+Ac
+Actini</value>
+  </data>
+  <data name="&gt;&gt;btnac.Name" xml:space="preserve">
+    <value>btnac</value>
+  </data>
+  <data name="&gt;&gt;btnac.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnac.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnac.ZOrder" xml:space="preserve">
+    <value>17</value>
+  </data>
+  <metadata name="btnlu.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btnlu.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <data name="btnlu.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="btnlu.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnlu.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1191, 623</value>
+  </data>
+  <data name="btnlu.Size" type="System.Drawing.Size, System.Drawing">
+    <value>66, 57</value>
+  </data>
+  <data name="btnlu.TabIndex" type="System.Int32, mscorlib">
+    <value>27</value>
+  </data>
+  <data name="btnlu.Text" xml:space="preserve">
+    <value>71
+Lu
+Lutexi</value>
+  </data>
+  <data name="&gt;&gt;btnlu.Name" xml:space="preserve">
+    <value>btnlu</value>
+  </data>
+  <data name="&gt;&gt;btnlu.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnlu.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnlu.ZOrder" xml:space="preserve">
+    <value>16</value>
+  </data>
+  <metadata name="btnno.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btnno.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <data name="btnno.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="btnno.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnno.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1127, 686</value>
+  </data>
+  <data name="btnno.Size" type="System.Drawing.Size, System.Drawing">
+    <value>61, 57</value>
+  </data>
+  <data name="btnno.TabIndex" type="System.Int32, mscorlib">
+    <value>28</value>
+  </data>
+  <data name="btnno.Text" xml:space="preserve">
+    <value>102
+No
+Nobeli</value>
+  </data>
+  <data name="&gt;&gt;btnno.Name" xml:space="preserve">
+    <value>btnno</value>
+  </data>
+  <data name="&gt;&gt;btnno.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnno.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnno.ZOrder" xml:space="preserve">
+    <value>15</value>
+  </data>
+  <metadata name="btnmd.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btnmd.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <data name="btnmd.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="btnmd.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnmd.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1060, 686</value>
+  </data>
+  <data name="btnmd.Size" type="System.Drawing.Size, System.Drawing">
+    <value>61, 57</value>
+  </data>
+  <data name="btnmd.TabIndex" type="System.Int32, mscorlib">
+    <value>29</value>
+  </data>
+  <data name="btnmd.Text" xml:space="preserve">
+    <value>101
+Md
+Menđelevi</value>
+  </data>
+  <data name="&gt;&gt;btnmd.Name" xml:space="preserve">
+    <value>btnmd</value>
+  </data>
+  <data name="&gt;&gt;btnmd.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnmd.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnmd.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <metadata name="btnfm.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btnfm.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <data name="btnfm.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="btnfm.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnfm.Location" type="System.Drawing.Point, System.Drawing">
+    <value>995, 687</value>
+  </data>
+  <data name="btnfm.Size" type="System.Drawing.Size, System.Drawing">
+    <value>59, 57</value>
+  </data>
+  <data name="btnfm.TabIndex" type="System.Int32, mscorlib">
+    <value>30</value>
+  </data>
+  <data name="btnfm.Text" xml:space="preserve">
+    <value>100
+Fm
+Fecmi</value>
+  </data>
+  <data name="&gt;&gt;btnfm.Name" xml:space="preserve">
+    <value>btnfm</value>
+  </data>
+  <data name="&gt;&gt;btnfm.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnfm.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnfm.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <metadata name="btnes.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btnes.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <data name="btnes.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="btnes.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnes.Location" type="System.Drawing.Point, System.Drawing">
+    <value>920, 687</value>
+  </data>
+  <data name="btnes.Size" type="System.Drawing.Size, System.Drawing">
+    <value>66, 57</value>
+  </data>
+  <data name="btnes.TabIndex" type="System.Int32, mscorlib">
+    <value>31</value>
+  </data>
+  <data name="btnes.Text" xml:space="preserve">
+    <value>99
+Es
+Ensteni</value>
+  </data>
+  <data name="&gt;&gt;btnes.Name" xml:space="preserve">
+    <value>btnes</value>
+  </data>
+  <data name="&gt;&gt;btnes.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnes.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnes.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <metadata name="btncf.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btncf.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <data name="btncf.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="btncf.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btncf.Location" type="System.Drawing.Point, System.Drawing">
+    <value>843, 687</value>
+  </data>
+  <data name="btncf.Size" type="System.Drawing.Size, System.Drawing">
+    <value>71, 57</value>
+  </data>
+  <data name="btncf.TabIndex" type="System.Int32, mscorlib">
+    <value>32</value>
+  </data>
+  <data name="btncf.Text" xml:space="preserve">
+    <value>98
+Cf
+Califoni</value>
+  </data>
+  <data name="&gt;&gt;btncf.Name" xml:space="preserve">
+    <value>btncf</value>
+  </data>
+  <data name="&gt;&gt;btncf.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btncf.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btncf.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <metadata name="btnbk.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btnbk.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <data name="btnbk.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="btnbk.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnbk.Location" type="System.Drawing.Point, System.Drawing">
+    <value>769, 687</value>
+  </data>
+  <data name="btnbk.Size" type="System.Drawing.Size, System.Drawing">
+    <value>66, 56</value>
+  </data>
+  <data name="btnbk.TabIndex" type="System.Int32, mscorlib">
+    <value>33</value>
+  </data>
+  <data name="btnbk.Text" xml:space="preserve">
+    <value>97
+Bk
+Beckeli</value>
+  </data>
+  <data name="&gt;&gt;btnbk.Name" xml:space="preserve">
+    <value>btnbk</value>
+  </data>
+  <data name="&gt;&gt;btnbk.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnbk.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnbk.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <metadata name="btncm.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btncm.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <data name="btncm.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="btncm.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btncm.Location" type="System.Drawing.Point, System.Drawing">
+    <value>703, 687</value>
+  </data>
+  <data name="btncm.Size" type="System.Drawing.Size, System.Drawing">
+    <value>60, 57</value>
+  </data>
+  <data name="btncm.TabIndex" type="System.Int32, mscorlib">
+    <value>34</value>
+  </data>
+  <data name="btncm.Text" xml:space="preserve">
+    <value>96
+Cm
+Curi</value>
+  </data>
+  <data name="&gt;&gt;btncm.Name" xml:space="preserve">
+    <value>btncm</value>
+  </data>
+  <data name="&gt;&gt;btncm.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btncm.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btncm.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <metadata name="btnam.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btnam.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <data name="btnam.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="btnam.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnam.Location" type="System.Drawing.Point, System.Drawing">
+    <value>631, 686</value>
+  </data>
+  <data name="btnam.Size" type="System.Drawing.Size, System.Drawing">
+    <value>66, 57</value>
+  </data>
+  <data name="btnam.TabIndex" type="System.Int32, mscorlib">
+    <value>35</value>
+  </data>
+  <data name="btnam.Text" xml:space="preserve">
+    <value>95
+Am
+Amerixi</value>
+  </data>
+  <data name="&gt;&gt;btnam.Name" xml:space="preserve">
+    <value>btnam</value>
+  </data>
+  <data name="&gt;&gt;btnam.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnam.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnam.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <metadata name="btnpu.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btnpu.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <data name="btnpu.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="btnpu.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnpu.Location" type="System.Drawing.Point, System.Drawing">
+    <value>560, 686</value>
+  </data>
+  <data name="btnpu.Size" type="System.Drawing.Size, System.Drawing">
+    <value>65, 57</value>
+  </data>
+  <data name="btnpu.TabIndex" type="System.Int32, mscorlib">
+    <value>36</value>
+  </data>
+  <data name="btnpu.Text" xml:space="preserve">
+    <value>94
+Pu
+Plutoni</value>
+  </data>
+  <data name="&gt;&gt;btnpu.Name" xml:space="preserve">
+    <value>btnpu</value>
+  </data>
+  <data name="&gt;&gt;btnpu.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnpu.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnpu.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <metadata name="btnnp.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btnnp.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <data name="btnnp.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="btnnp.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnnp.Location" type="System.Drawing.Point, System.Drawing">
+    <value>487, 686</value>
+  </data>
+  <data name="btnnp.Size" type="System.Drawing.Size, System.Drawing">
+    <value>66, 57</value>
+  </data>
+  <data name="btnnp.TabIndex" type="System.Int32, mscorlib">
+    <value>37</value>
+  </data>
+  <data name="btnnp.Text" xml:space="preserve">
+    <value>93
+Np
+Neptuni</value>
+  </data>
+  <data name="&gt;&gt;btnnp.Name" xml:space="preserve">
+    <value>btnnp</value>
+  </data>
+  <data name="&gt;&gt;btnnp.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnnp.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnnp.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <metadata name="btnu.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btnu.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <data name="btnu.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="btnu.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnu.Location" type="System.Drawing.Point, System.Drawing">
+    <value>419, 687</value>
+  </data>
+  <data name="btnu.Size" type="System.Drawing.Size, System.Drawing">
+    <value>67, 57</value>
+  </data>
+  <data name="btnu.TabIndex" type="System.Int32, mscorlib">
+    <value>38</value>
+  </data>
+  <data name="btnu.Text" xml:space="preserve">
+    <value>92
+U
+Urani</value>
+  </data>
+  <data name="&gt;&gt;btnu.Name" xml:space="preserve">
+    <value>btnu</value>
+  </data>
+  <data name="&gt;&gt;btnu.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnu.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnu.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <metadata name="btnpa.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btnpa.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <data name="btnpa.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="btnpa.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnpa.Location" type="System.Drawing.Point, System.Drawing">
+    <value>347, 687</value>
+  </data>
+  <data name="btnpa.Size" type="System.Drawing.Size, System.Drawing">
+    <value>66, 57</value>
+  </data>
+  <data name="btnpa.TabIndex" type="System.Int32, mscorlib">
+    <value>39</value>
+  </data>
+  <data name="btnpa.Text" xml:space="preserve">
+    <value>91
+Pa
+Protactini</value>
+  </data>
+  <data name="&gt;&gt;btnpa.Name" xml:space="preserve">
+    <value>btnpa</value>
+  </data>
+  <data name="&gt;&gt;btnpa.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnpa.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnpa.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <metadata name="btnth.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btnth.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <data name="btnth.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="btnth.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnth.Location" type="System.Drawing.Point, System.Drawing">
+    <value>272, 687</value>
+  </data>
+  <data name="btnth.Size" type="System.Drawing.Size, System.Drawing">
+    <value>66, 57</value>
+  </data>
+  <data name="btnth.TabIndex" type="System.Int32, mscorlib">
+    <value>40</value>
+  </data>
+  <data name="btnth.Text" xml:space="preserve">
+    <value>90
+Th
+Thori</value>
+  </data>
+  <data name="&gt;&gt;btnth.Name" xml:space="preserve">
+    <value>btnth</value>
+  </data>
+  <data name="&gt;&gt;btnth.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnth.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnth.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <metadata name="btnlr.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="btnlr.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <data name="btnlr.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="btnlr.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnlr.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1194, 686</value>
+  </data>
+  <data name="btnlr.Size" type="System.Drawing.Size, System.Drawing">
+    <value>63, 57</value>
+  </data>
+  <data name="btnlr.TabIndex" type="System.Int32, mscorlib">
+    <value>41</value>
+  </data>
+  <data name="btnlr.Text" xml:space="preserve">
+    <value>103
+Lr
+Lorenxi</value>
+  </data>
+  <data name="&gt;&gt;btnlr.Name" xml:space="preserve">
+    <value>btnlr</value>
+  </data>
+  <data name="&gt;&gt;btnlr.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnlr.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnlr.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <metadata name="label1.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="label1.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <data name="label1.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 14.25pt</value>
+  </data>
+  <data name="label1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>489, 301</value>
+  </data>
+  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>241, 24</value>
+  </data>
+  <data name="label1.TabIndex" type="System.Int32, mscorlib">
+    <value>42</value>
+  </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>Dmitri Ivanovich Mendeleev</value>
+  </data>
+  <data name="&gt;&gt;label1.Name" xml:space="preserve">
+    <value>label1</value>
+  </data>
+  <data name="&gt;&gt;label1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
   <metadata name="contextMenuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>226, 17</value>
   </metadata>
+  <data name="tsmbangtan.Size" type="System.Drawing.Size, System.Drawing">
+    <value>172, 22</value>
+  </data>
+  <data name="tsmbangtan.Text" xml:space="preserve">
+    <value>Xem bảng tính tan</value>
+  </data>
+  <data name="tsmcanbang.Size" type="System.Drawing.Size, System.Drawing">
+    <value>172, 22</value>
+  </data>
+  <data name="từĐiểnHóaHọcToolStripMenuItem1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>172, 22</value>
+  </data>
+  <data name="giúpĐỡToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>172, 22</value>
+  </data>
+  <data name="giúpĐỡToolStripMenuItem.Text" xml:space="preserve">
+    <value>Giúp đỡ</value>
+  </data>
+  <data name="contextMenuStrip1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>173, 92</value>
+  </data>
+  <data name="&gt;&gt;contextMenuStrip1.Name" xml:space="preserve">
+    <value>contextMenuStrip1</value>
+  </data>
+  <data name="&gt;&gt;contextMenuStrip1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ContextMenuStrip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
   <metadata name="notifyIcon1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>381, 17</value>
   </metadata>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="notifyIcon1.BalloonTipText" xml:space="preserve">
+    <value>Cảm ơn bạn đã ghé thăm trang WEB của chúng tôi!</value>
+  </data>
+  <data name="notifyIcon1.BalloonTipTitle" xml:space="preserve">
+    <value>Visual Periodic Table</value>
+  </data>
   <data name="notifyIcon1.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         AAABAAEAAAAAAAEAIAD9QQAAFgAAAIlQTkcNChoKAAAADUlIRFIAAAEAAAABAAgGAAAAXHKoZgAAQcRJ
@@ -413,9 +4421,57 @@
         4j8r57+Tw/8mlr/Gdv6ac/h7+PD3fIZfw92mozlBdPca/x98oeP0nmfigAAAAABJRU5ErkJggg==
 </value>
   </data>
+  <data name="notifyIcon1.Text" xml:space="preserve">
+    <value>Visual Periodic Table</value>
+  </data>
+  <data name="notifyIcon1.Visible" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <metadata name="folderBrowserDialog1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>494, 17</value>
+  </metadata>
+  <metadata name="pictureBox1.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="pictureBox1.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <data name="pictureBox1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="pictureBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>203, 97</value>
+  </data>
+  <data name="pictureBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>283, 228</value>
+  </data>
+  <data name="pictureBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.Name" xml:space="preserve">
+    <value>pictureBox1</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.ZOrder" xml:space="preserve">
+    <value>32</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
   <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>42</value>
   </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>6, 13</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>1370, 749</value>
+  </data>
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         AAABAAEAAAAAAAEAIAD9QQAAFgAAAIlQTkcNChoKAAAADUlIRFIAAAEAAAABAAgGAAAAXHKoZgAAQcRJ
@@ -701,5 +4757,188 @@
         QwS/phn8Gl/n13y3qaaeILwYYthPGO7k5HqI4RlevNKHYTzfT69g2M5wjCGW4QZfkakARjlDLU+Nbedo
         4j8r57+Tw/8mlr/Gdv6ac/h7+PD3fIZfw92mozlBdPca/x98oeP0nmfigAAAAABJRU5ErkJggg==
 </value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Visual Periodic Table</value>
+  </data>
+  <data name="&gt;&gt;tsmbangtan.Name" xml:space="preserve">
+    <value>tsmbangtan</value>
+  </data>
+  <data name="&gt;&gt;tsmbangtan.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tsmcanbang.Name" xml:space="preserve">
+    <value>tsmcanbang</value>
+  </data>
+  <data name="&gt;&gt;tsmcanbang.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;từĐiểnHóaHọcToolStripMenuItem1.Name" xml:space="preserve">
+    <value>từĐiểnHóaHọcToolStripMenuItem1</value>
+  </data>
+  <data name="&gt;&gt;từĐiểnHóaHọcToolStripMenuItem1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;giúpĐỡToolStripMenuItem.Name" xml:space="preserve">
+    <value>giúpĐỡToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;giúpĐỡToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;notifyIcon1.Name" xml:space="preserve">
+    <value>notifyIcon1</value>
+  </data>
+  <data name="&gt;&gt;notifyIcon1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NotifyIcon, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;folderBrowserDialog1.Name" xml:space="preserve">
+    <value>folderBrowserDialog1</value>
+  </data>
+  <data name="&gt;&gt;folderBrowserDialog1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.FolderBrowserDialog, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;kienthuchoahoacoban.Name" xml:space="preserve">
+    <value>kienthuchoahoacoban</value>
+  </data>
+  <data name="&gt;&gt;kienthuchoahoacoban.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;bảngTínhTanToolStripMenuItem.Name" xml:space="preserve">
+    <value>bảngTínhTanToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;bảngTínhTanToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;bảngTínhTanToolStripMenuItem1.Name" xml:space="preserve">
+    <value>bảngTínhTanToolStripMenuItem1</value>
+  </data>
+  <data name="&gt;&gt;bảngTínhTanToolStripMenuItem1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;điệnLaToolStripMenuItem.Name" xml:space="preserve">
+    <value>điệnLaToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;điệnLaToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;biểuĐồĐiệnLoạtToolStripMenuItem.Name" xml:space="preserve">
+    <value>biểuĐồĐiệnLoạtToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;biểuĐồĐiệnLoạtToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tỉLệPhầnTrămCácNguyênTốTrongVỏTráiĐấtToolStripMenuItem.Name" xml:space="preserve">
+    <value>tỉLệPhầnTrămCácNguyênTốTrongVỏTráiĐấtToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;tỉLệPhầnTrămCácNguyênTốTrongVỏTráiĐấtToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;biểuĐồToolStripMenuItem.Name" xml:space="preserve">
+    <value>biểuĐồToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;biểuĐồToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;khamphaCaMau.Name" xml:space="preserve">
+    <value>khamphaCaMau</value>
+  </data>
+  <data name="&gt;&gt;khamphaCaMau.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cácTínhNăngKhácToolStripMenuItem.Name" xml:space="preserve">
+    <value>cácTínhNăngKhácToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;cácTínhNăngKhácToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;giảiPhươngTrìnhBậcHaiToolStripMenuItem.Name" xml:space="preserve">
+    <value>giảiPhươngTrìnhBậcHaiToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;giảiPhươngTrìnhBậcHaiToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;giảiPhươngTrìnhBậcNhấtToolStripMenuItem.Name" xml:space="preserve">
+    <value>giảiPhươngTrìnhBậcNhấtToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;giảiPhươngTrìnhBậcNhấtToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;giảiPhươngTrìnhBậcHaiToolStripMenuItem1.Name" xml:space="preserve">
+    <value>giảiPhươngTrìnhBậcHaiToolStripMenuItem1</value>
+  </data>
+  <data name="&gt;&gt;giảiPhươngTrìnhBậcHaiToolStripMenuItem1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;giảiPhươngTrìnhBậcNhấtHaiẨnToolStripMenuItem.Name" xml:space="preserve">
+    <value>giảiPhươngTrìnhBậcNhấtHaiẨnToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;giảiPhươngTrìnhBậcNhấtHaiẨnToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;máyTinh.Name" xml:space="preserve">
+    <value>máyTinh</value>
+  </data>
+  <data name="&gt;&gt;máyTinh.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;vậtLíToolStripMenuItem.Name" xml:space="preserve">
+    <value>vậtLíToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;vậtLíToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;chuyểnĐổiCácĐơnVịToolStripMenuItem.Name" xml:space="preserve">
+    <value>chuyểnĐổiCácĐơnVịToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;chuyểnĐổiCácĐơnVịToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;hóaHọcToolStripMenuItem.Name" xml:space="preserve">
+    <value>hóaHọcToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;hóaHọcToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tínhNồngĐộPhầnTrămDungDịchToolStripMenuItem.Name" xml:space="preserve">
+    <value>tínhNồngĐộPhầnTrămDungDịchToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;tínhNồngĐộPhầnTrămDungDịchToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tínhNồngĐộMolToolStripMenuItem.Name" xml:space="preserve">
+    <value>tínhNồngĐộMolToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;tínhNồngĐộMolToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;càiĐặtToolStripMenuItem.Name" xml:space="preserve">
+    <value>càiĐặtToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;càiĐặtToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cấuHìnhToolStripMenuItem.Name" xml:space="preserve">
+    <value>cấuHìnhToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;cấuHìnhToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;thoátToolStripMenuItem.Name" xml:space="preserve">
+    <value>thoátToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;thoátToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;thôngTinPhầnMềmToolStripMenuItem.Name" xml:space="preserve">
+    <value>thôngTinPhầnMềmToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;thôngTinPhầnMềmToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>fchinh</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
 </root>

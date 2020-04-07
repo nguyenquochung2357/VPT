@@ -57,7 +57,8 @@
             "Mũi Cà Mau",
             "Hòn Khoai",
             "Đầm Thị Tường",
-            "Vườn Quốc Gia U Minh Hạ"});
+            "Vườn Quốc Gia U Minh Hạ",
+            "Rừng ngập mặn"});
             this.comboBox1.Location = new System.Drawing.Point(12, 12);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(443, 28);

@@ -101,6 +101,7 @@
             this.Name = "Thong_Tin_Phan_Mem";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Thông tin phần mềm";
+            this.Load += new System.EventHandler(this.Thong_Tin_Phan_Mem_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

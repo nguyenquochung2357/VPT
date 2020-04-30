@@ -70,5 +70,10 @@ namespace Visual_Periodic_Table
                 MessageBox.Show("Bạn chưa nhập đủ các hệ số!", "Cảnh Báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
+
+        private void Giai_Phuong_Trinh_Bac_Nhat_Hai_An_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

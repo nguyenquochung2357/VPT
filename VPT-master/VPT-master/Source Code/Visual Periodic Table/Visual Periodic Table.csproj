@@ -101,6 +101,9 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>DBVPTDataSet1.xsd</DependentUpon>
     </Compile>
+    <Compile Include="DBVPTDataSet2.cs">
+      <DependentUpon>DBVPTDataSet2.xsd</DependentUpon>
+    </Compile>
     <Compile Include="DBVPTDataSet2.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -116,6 +119,12 @@
     </Compile>
     <Compile Include="fchinh.Designer.cs">
       <DependentUpon>fchinh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
     <Compile Include="Form_Chao_Mung.cs">
       <SubType>Form</SubType>
@@ -191,11 +200,11 @@
     <Compile Include="Thong_Tin_Phan_Mem.Designer.cs">
       <DependentUpon>Thong_Tin_Phan_Mem.cs</DependentUpon>
     </Compile>
-    <Compile Include="Tinh_Dien_Tro.cs">
+    <Compile Include="Tinhkhoangcach.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Tinh_Dien_Tro.Designer.cs">
-      <DependentUpon>Tinh_Dien_Tro.cs</DependentUpon>
+    <Compile Include="Tinhkhoangcach.Designer.cs">
+      <DependentUpon>Tinhkhoangcach.cs</DependentUpon>
     </Compile>
     <Compile Include="Tinh_khoang_cach.cs">
       <SubType>Form</SubType>
@@ -226,12 +235,6 @@
     </Compile>
     <Compile Include="Trinh_Duyet.Designer.cs">
       <DependentUpon>Trinh_Duyet.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Video_Huong_Dan.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Video_Huong_Dan.Designer.cs">
-      <DependentUpon>Video_Huong_Dan.cs</DependentUpon>
     </Compile>
     <EmbeddedResource Include="Bang_Tinh_Tan.resx">
       <DependentUpon>Bang_Tinh_Tan.cs</DependentUpon>
@@ -295,8 +298,8 @@
     <EmbeddedResource Include="Thong_Tin_Phan_Mem.resx">
       <DependentUpon>Thong_Tin_Phan_Mem.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Tinh_Dien_Tro.resx">
-      <DependentUpon>Tinh_Dien_Tro.cs</DependentUpon>
+    <EmbeddedResource Include="Tinhkhoangcach.resx">
+      <DependentUpon>Tinhkhoangcach.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Tinh_khoang_cach.resx">
       <DependentUpon>Tinh_khoang_cach.cs</DependentUpon>
@@ -312,9 +315,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Trinh_Duyet.resx">
       <DependentUpon>Trinh_Duyet.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Video_Huong_Dan.resx">
-      <DependentUpon>Video_Huong_Dan.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="app.config" />
     <None Include="DBVPTDataSet.xsc">
@@ -376,6 +376,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="bin\Debug\Resources\chemistry.png" />
+    <None Include="bin\Debug\Resources\Tác giả Bảng tuần hoàn.jpg" />
+    <None Include="bin\Debug\Resources\x-button.png" />
+    <None Include="bin\Debug\Resources\info.png" />
     <Content Include="DATA\DBVPT.mdf">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
@@ -499,7 +502,6 @@
     <Content Include="Image Of Visual Periodic Table\yttrium-2.jpg" />
     <Content Include="Image Of Visual Periodic Table\zinc-2.jpg" />
     <Content Include="Image Of Visual Periodic Table\zirconium.jpg" />
-    <Content Include="Resources\hd.mp4" />
     <None Include="Resources\Icon1.ico" />
     <None Include="Resources\computers02600tj0.jpg" />
     <None Include="Resources\moc.jpg" />

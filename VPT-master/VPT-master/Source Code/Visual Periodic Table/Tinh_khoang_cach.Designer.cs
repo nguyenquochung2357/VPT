@@ -37,6 +37,7 @@
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Name = "Tinh_khoang_cach";
             this.Text = "Tính khoảng cách giữa hai điểm trên cùng một mặt phẳng tọa độ";
+            this.Load += new System.EventHandler(this.Tinh_khoang_cach_Load);
             this.ResumeLayout(false);
 
         }

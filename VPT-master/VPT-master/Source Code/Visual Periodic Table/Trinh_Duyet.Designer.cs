@@ -42,11 +42,13 @@
             this.webBrowser1.Size = new System.Drawing.Size(1174, 527);
             this.webBrowser1.TabIndex = 0;
             this.webBrowser1.Url = new System.Uri("https://cungnhauhoctot.wordpress.com", System.UriKind.Absolute);
+            this.webBrowser1.WebBrowserShortcutsEnabled = false;
             // 
             // Trinh_Duyet
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoScroll = true;
             this.ClientSize = new System.Drawing.Size(1174, 527);
             this.Controls.Add(this.webBrowser1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
@@ -57,10 +59,9 @@
 
         }
 
+
         #endregion
 
         public System.Windows.Forms.WebBrowser webBrowser1;
-
-
     }
 }

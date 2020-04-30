@@ -42,15 +42,22 @@ namespace Visual_Periodic_Table
         }
         private void tinhtoan_click(object sender, EventArgs e)
         {
-            Button button = (Button)sender;
-            if (ResultValue != 0)
+            if (textBox1.Text == "")
             {
-                button15.PerformClick();
+                MessageBox.Show("Bạn chưa nhập giá trị", "Lỗi");
             }
-            OperationPerformed = button.Text;
-            ResultValue = Double.Parse(textBox1.Text);
-            label_HT.Text = ResultValue + " " + OperationPerformed;
-            IsOperationPerformed = true;
+            else
+            {
+                Button button = (Button)sender;
+                if (ResultValue != 0)
+                {
+                    button15.PerformClick();
+                }
+                OperationPerformed = button.Text;
+                ResultValue = Double.Parse(textBox1.Text);
+                label_HT.Text = ResultValue + " " + OperationPerformed;
+                IsOperationPerformed = true;
+            }
         }
         private void button15_Click(object sender, EventArgs e)
         {
@@ -85,7 +92,7 @@ namespace Visual_Periodic_Table
 
         private void MayTinh_Load(object sender, EventArgs e)
         {
-
+            textBox1.Text = "0";
         }
 
         private void label_HT_Click(object sender, EventArgs e)

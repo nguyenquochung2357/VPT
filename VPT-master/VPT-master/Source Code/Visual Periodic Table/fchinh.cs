@@ -8,6 +8,7 @@ using System.Text;
 using System.Windows.Forms;
 using System.Threading;
 using System.Diagnostics;
+using System.Security.Policy;
 
 namespace Visual_Periodic_Table
 {
@@ -20,6 +21,8 @@ namespace Visual_Periodic_Table
            Thread.Sleep(500);
             InitializeComponent();
            t.Abort();
+           
+           
         }
 
         private void btbe_Click(object sender, EventArgs e)
@@ -271,20 +274,7 @@ namespace Visual_Periodic_Table
             f.lblienket.Text = "Liên kết cộng hóa trị bán kính: 75 pm";
         } //nito
 
-        private void fchinh_FormClosed(object sender, FormClosedEventArgs e)
-        {
-
-        }
-
-        private void fchinh_FormClosing(object sender, FormClosingEventArgs e)
-        {
-            DialogResult tra_loi = MessageBox.Show("Bạn có chắc muốn thoát khỏi phần mềm?", "Thông Báo", MessageBoxButtons.OKCancel, MessageBoxIcon.Information );
-            if (tra_loi == DialogResult.Cancel ) 
-            {
-                //Application.Exit();
-                e.Cancel = true;
-            }
-        }
+     
 
         private void bto_Click(object sender, EventArgs e)
         {
@@ -2698,21 +2688,6 @@ namespace Visual_Periodic_Table
             }
         }
 
-        private void hóaHọcToolStripMenuItem1_Click(object sender, EventArgs e)
-        {
-            //Process.Start("https://cungnhauhoctot.wordpress.com/portfolio/hoa-hoc/");
-            DialogResult chon = MessageBox.Show("Bạn muốn duyệt trang Web này trên trình duyệt mặc định hay sử dụng trình duyệt của phần mềm?\nYes=Trình duyệt hệ thống\nNo = Trình duyệt phần mềm", "Câu hỏi", MessageBoxButtons.YesNo, MessageBoxIcon.Information);
-            if (chon == DialogResult.Yes)
-            {
-                Process.Start("https://cungnhauhoctot.wordpress.com/portfolio/hoa-hoc/");
-            }
-            else
-            {
-                Trinh_Duyet f = new Trinh_Duyet();
-                f.Show();
-                f.webBrowser1.Url = new Uri("https://cungnhauhoctot.wordpress.com/portfolio/hoa-hoc/");
-            }
-        }
 
         private void pictureBox1_Click(object sender, EventArgs e)
         {
@@ -3940,16 +3915,6 @@ namespace Visual_Periodic_Table
    
 
 
-        private void bằngVideoToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            Video_Huong_Dan v = new Video_Huong_Dan();
-            v.ShowDialog();
-        }
-
-        private void fchinh_Load(object sender, EventArgs e)
-        {
-           
-        }
 
         private void tsmbangtan_Click(object sender, EventArgs e)
         {
@@ -3960,12 +3925,7 @@ namespace Visual_Periodic_Table
     
 
 
-        private void giúpĐỡToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            Video_Huong_Dan f = new Video_Huong_Dan();
-            f.ShowDialog();
-        }
-
+ 
         private void khámPháCàMuaToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Kham_Pha_Ca_Mau f = new Kham_Pha_Ca_Mau();
@@ -3980,11 +3940,6 @@ namespace Visual_Periodic_Table
         private void càiĐặtToolStripMenuItem_Click(object sender, EventArgs e)
         {
             
-        }
-
-        private void thôngTinPhầnMềmToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-
         }
 
         private void cácTínhNăngKhácToolStripMenuItem_Click(object sender, EventArgs e)
@@ -4017,6 +3972,64 @@ namespace Visual_Periodic_Table
         {
             Kienthuchoahoccoban f = new Kienthuchoahoccoban();
             f.ShowDialog();
+        }
+
+        private void tinhkhoangcach_Click(object sender, EventArgs e)
+        {
+            Tinhkhoangcach f = new Tinhkhoangcach();
+            f.ShowDialog();
+        }
+
+        private void pictureBox1_Click_1(object sender, EventArgs e)
+        {
+                // Process.Start("https://vi.wikipedia.org/wiki/Dmitri_Ivanovich_Mendeleev");
+                DialogResult chon = MessageBox.Show("Bạn muốn duyệt trang Web này trên trình duyệt mặc định hay sử dụng trình duyệt của phần mềm?\nYes=Trình duyệt hệ thống\nNo = Thoát", "Câu hỏi", MessageBoxButtons.YesNo, MessageBoxIcon.Information);
+                if (chon == DialogResult.Yes)
+                {
+                    Process.Start("https://vi.wikipedia.org/wiki/Dmitri_Ivanovich_Mendeleev");
+                }
+                else
+            {
+                return;
+            }    
+           
+            
+        }
+
+        private void fchinh_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            contextMenuStrip1.Show();
+        }
+
+        private void Thôngtin_Click(object sender, EventArgs e)
+        {
+            Thong_Tin_Phan_Mem f = new Thong_Tin_Phan_Mem();
+            f.ShowDialog();
+        }
+
+        private void từĐiểnHóaHọcToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void fchinh_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            DialogResult tra_loi;
+            tra_loi = MessageBox.Show("Bạn có muốn thoát khỏi chương trình không ?", "Xác nhận", MessageBoxButtons.OKCancel, MessageBoxIcon.Question);
+            if(tra_loi == DialogResult.Cancel)
+            {
+                e.Cancel = true;
+            }
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

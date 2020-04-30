@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<DictionaryItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Items>
+    <DictionaryData>
+      <Key>Hello</Key>
+      <Meaning>Xin chào</Meaning>
+      <Explaination>Từ mang ý nghĩa chào hỏi. Có thể dùng mỗi khi gặp một ai đó.</Explaination>
+    </DictionaryData>
+    <DictionaryData>
+      <Key>Good bye</Key>
+      <Meaning>Chào tạm biệt</Meaning>
+      <Explaination>Từ mang ý nghĩa chào tạm biệt. Có thể dùng mỗi khi tạm biệt một ai đó.</Explaination>
+    </DictionaryData>
+    <DictionaryData>
+      <Key>How Kteam</Key>
+      <Meaning>How Kteam</Meaning>
+      <Explaination>Một dự án chia sẽ kiến thức miễn phí</Explaination>
+    </DictionaryData>
+    <DictionaryData>
+      <Key>Kter</Key>
+      <Meaning>Thành viên của Kteam</Meaning>
+      <Explaination>Bất cứ ai mong muốn chia sẽ kiến thức miễn phí. Đều là Kter.</Explaination>
+    </DictionaryData>
+    <DictionaryData>
+      <Key>HowKteam.com</Key>
+      <Meaning>Website HowKteam.com</Meaning>
+      <Explaination>Một website giáo dục, chia sẽ kiến thức hoàn toàn miễn phí. Xúc tích, dễ hiểu.</Explaination>
+    </DictionaryData>
+  </Items>
+</DictionaryItem>

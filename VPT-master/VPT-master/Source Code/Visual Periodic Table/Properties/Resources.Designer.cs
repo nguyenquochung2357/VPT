@@ -363,6 +363,16 @@ namespace Visual_Periodic_Table.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap info2 {
+            get {
+                object obj = ResourceManager.GetObject("info2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap information {
             get {
                 object obj = ResourceManager.GetObject("information", resourceCulture);
@@ -473,6 +483,16 @@ namespace Visual_Periodic_Table.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Tác_giả_Bảng_tuần_hoàn1 {
+            get {
+                object obj = ResourceManager.GetObject("Tác giả Bảng tuần hoàn1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Ti_le_cac_nguyen_to {
             get {
                 object obj = ResourceManager.GetObject("Ti_le_cac_nguyen_to", resourceCulture);
@@ -536,6 +556,26 @@ namespace Visual_Periodic_Table.Properties {
         internal static System.Drawing.Bitmap x_button {
             get {
                 object obj = ResourceManager.GetObject("x-button", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap x_button1 {
+            get {
+                object obj = ResourceManager.GetObject("x-button1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap x_button2 {
+            get {
+                object obj = ResourceManager.GetObject("x-button2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

@@ -1,0 +1,185 @@
+<?xml version="1.0"?>
+<DictionaryItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Items>
+    <DictionaryData>
+      <Key>Al+CuSO4=Al2(SO4)3+Cu</Key>
+      <Meaning>2Al	+	3CuSO4	⟶	Al2(SO4)3	+	3Cu	</Meaning>
+    </DictionaryData>
+<DictionaryData>
+      <Key>Al+HCl=AlCl3+H2</Key>
+      <Meaning>2Al	+	6HCl	⟶	2AlCl3	+	3H2</Meaning>
+    </DictionaryData>
+<DictionaryData>
+      <Key>Al+O2=Al2O3</Key>
+      <Meaning>4Al	+	3O2	⟶	2Al2O3</Meaning>
+    </DictionaryData>
+<DictionaryData>
+      <Key>Al2O3+H2SO4=Al2(SO4)3+H2O</Key>
+      <Meaning>Al2O3	+	3H2SO4	⟶	Al2(SO4)3	+	3H2O</Meaning>
+    </DictionaryData>
+  <DictionaryData>
+      <Key>C+O2=CO2</Key>
+      <Meaning>C	+	O2	⟶	CO2</Meaning>
+    </DictionaryData>
+  <DictionaryData>
+      <Key>Ca(OH)2+Na2CO3=CaCO3+NaOH</Key>
+      <Meaning>Ca(OH)2	+	Na2CO3	⟶	CaCO3	+	2NaOH</Meaning>
+    </DictionaryData>
+<DictionaryData>
+      <Key>CaCO3+HCl=H2O+CO2+CaCl2</Key>
+      <Meaning>CaCO3	+	2HCl	⟶	H2O	+	CO2	+	CaCl2</Meaning>
+    </DictionaryData>
+<DictionaryData>
+      <Key>CaO+H2O=Ca(OH)2</Key>
+      <Meaning>CaO	+	H2O	⟶	Ca(OH)2</Meaning>
+    </DictionaryData>
+<DictionaryData>
+      <Key>CaO+HNO3=Ca(NO3)2+H2O</Key>
+      <Meaning>CaO	+	2HNO3	⟶	Ca(NO3)2	+	H2O</Meaning>
+    </DictionaryData>
+<DictionaryData>
+      <Key>CH4+O2=H2O+CO2</Key>
+      <Meaning>CH4	+	2O2	⟶	2H2O	+	CO2</Meaning>
+    </DictionaryData>
+<DictionaryData>
+      <Key>Cl2+Na=NaCl</Key>
+      <Meaning>Cl2	+	2Na	⟶	2NaCl</Meaning>
+    </DictionaryData>
+<DictionaryData>
+      <Key>CO+Fe2O3=Fe+CO2</Key>
+      <Meaning>3CO	+	Fe2O3	⟶	2Fe	+	3CO2</Meaning>
+    </DictionaryData>
+<DictionaryData>
+      <Key>Mg+CO2=C+MgO</Key>
+      <Meaning>2Mg	+	CO2	⟶	C	+	2MgO</Meaning>
+    </DictionaryData>
+<DictionaryData>
+      <Key>Cu+O2=CuO</Key>
+      <Meaning>2Cu	+	O2	⟶	2CuO</Meaning>
+    </DictionaryData>
+<DictionaryData>
+      <Key>Cu(OH2)=CuO+H2O</Key>
+      <Meaning>Cu(OH)2	⟶	CuO	+	H2O</Meaning>
+    </DictionaryData>
+<DictionaryData>
+      <Key>Cu+H2=Cu+H2O</Key>
+      <Meaning>CuO	+	H2	⟶	Cu	+	H2O</Meaning>
+    </DictionaryData>
+<DictionaryData>
+      <Key>Fe+H2SO4=H2+FeSO4</Key>
+      <Meaning>Fe	+	H2SO4	⟶	H2	+	FeSO4</Meaning>
+    </DictionaryData>
+<DictionaryData>
+      <Key>Fe+HCl=FeCl2+H2</Key>
+      <Meaning>Fe	+	2HCl	⟶	FeCl2	+	H2</Meaning>
+    </DictionaryData>
+<DictionaryData>
+      <Key>Fe+O2=Fe3O4</Key>
+      <Meaning>3Fe	+	2O2	⟶	Fe3O4</Meaning>
+    </DictionaryData>
+<DictionaryData>
+      <Key>H2+O2=H2O</Key>
+      <Meaning>2H2	+	O2	⟶	2H2O</Meaning>
+    </DictionaryData>
+<DictionaryData>
+      <Key>H2O=H2+O2</Key>
+      <Meaning>2H2O	⟶	2H2	+	O2</Meaning>
+    </DictionaryData>
+<DictionaryData>
+      <Key>H2O+K2O=KOH</Key>
+      <Meaning>H2O	+	K2O	⟶	2KOH</Meaning>
+    </DictionaryData>
+<DictionaryData>
+      <Key>H2O+N2O5=HNO3</Key>
+      <Meaning>H2O	+	N2O5	⟶	2HNO3</Meaning>
+    </DictionaryData>
+<DictionaryData>
+      <Key>H2O+Na2O=NaOH</Key>
+      <Meaning>H2O	+	Na2O	⟶	2NaOH</Meaning>
+    </DictionaryData>
+<DictionaryData>
+      <Key>H2O+P2O5=H3PO4</Key>
+      <Meaning>3H2O	+	P2O5	⟶	2H3PO4</Meaning>
+    </DictionaryData>
+<DictionaryData>
+      <Key>H2O+SO3=H2SO4</Key>
+      <Meaning>H2O	+	SO3	⟶	H2SO4</Meaning>
+    </DictionaryData>
+<DictionaryData>
+      <Key>H2SO4+Zn=H2+ZnSO4</Key>
+      <Meaning>H2SO4	+	Zn	⟶	H2	+	ZnSO4</Meaning>
+    </DictionaryData>
+<DictionaryData>
+      <Key>HCl+NaOH=H2O+NaCl</Key>
+      <Meaning>HCl	+	NaOH	⟶	H2O	+	NaCl</Meaning>
+    </DictionaryData>
+<DictionaryData>
+      <Key>HCl+Zn=H2+ZnCl2</Key>
+      <Meaning>2HCl	+	Zn	⟶	H2	+	ZnCl2</Meaning>
+    </DictionaryData>
+<DictionaryData>
+      <Key>HgO=Hg+O2</Key>
+      <Meaning>2HgO	⟶	2Hg	+	O2</Meaning>
+    </DictionaryData>
+<DictionaryData>
+      <Key>KClO3=KCl+O2</Key>
+      <Meaning>2KClO3	⟶	2KCl	+	3O2</Meaning>
+    </DictionaryData>
+<DictionaryData>
+      <Key>KMnO4=MnO2+O2+K2MnO4</Key>
+      <Meaning>2KMnO4	⟶	MnO2	+	O2	+	K2MnO4</Meaning>
+    </DictionaryData>
+<DictionaryData>
+      <Key>Mg+O2=MgO</Key>
+      <Meaning>2Mg	+	O2	⟶	2MgO</Meaning>
+    </DictionaryData>
+<DictionaryData>
+      <Key>Na+O2=Na2O</Key>
+      <Meaning>4Na	+	O2	⟶	2Na2O</Meaning>
+    </DictionaryData>
+<DictionaryData>
+      <Key>O2+P=P2O5</Key>
+      <Meaning>5O2	+	4P	⟶	2P2O5</Meaning>
+    </DictionaryData>
+<DictionaryData>
+      <Key>O2+S=SO2</Key>
+      <Meaning>O2	+	S	⟶	SO2</Meaning>
+    </DictionaryData>
+<DictionaryData>
+      <Key>H2+Fe3O4=Fe+H2O</Key>
+      <Meaning>4H2	+	Fe3O4	⟶	3Fe	+	4H2O</Meaning>
+    </DictionaryData>
+<DictionaryData>
+      <Key>Fe+CuCl2=Cu+FeCl2</Key>
+      <Meaning>Fe	+	CuCl2	⟶	Cu	+	FeCl2</Meaning>
+    </DictionaryData>
+<DictionaryData>
+      <Key>H2O+SO2=H2SO3</Key>
+      <Meaning>H2O	+	SO2	⇌	H2SO3</Meaning>
+    </DictionaryData>
+<DictionaryData>
+      <Key>Fe(OH)3=Fe2O3+H2O</Key>
+      <Meaning>	2Fe(OH)3	⟶	Fe2O3	+	3H2O</Meaning>
+    </DictionaryData>
+<DictionaryData>
+      <Key>Al(OH)3+H2SO4=Al2(SO4)3+H2O</Key>
+      <Meaning>2Al(OH)3	+	3H2SO4	⟶	Al2(SO4)3	+	6H2O</Meaning>
+    </DictionaryData>
+<DictionaryData>
+      <Key>Fe+O2=Fe2O3</Key>
+      <Meaning>4Fe	+	3O2	⟶	2Fe2O3</Meaning>
+    </DictionaryData>
+<DictionaryData>
+      <Key>H2O+Na=H2+NaOH</Key>
+      <Meaning>2H2O	+	2Na	⟶	H2	+	2NaOH</Meaning>
+    </DictionaryData>
+
+
+
+
+
+
+
+
+  </Items>
+</DictionaryItem>

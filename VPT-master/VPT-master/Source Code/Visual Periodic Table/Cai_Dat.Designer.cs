@@ -109,6 +109,7 @@
             this.rdbXanh.TabStop = true;
             this.rdbXanh.Text = "Xanh";
             this.rdbXanh.UseVisualStyleBackColor = true;
+            this.rdbXanh.CheckedChanged += new System.EventHandler(this.rdbXanh_CheckedChanged);
             // 
             // rdbDo
             // 

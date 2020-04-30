@@ -250,10 +250,13 @@
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.MaximizeBox = false;
             this.Name = "Giai_Phuong_Trinh_Bac_Nhat_Hai_An";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Giải phương trình bậc nhất hai ẩn";
+            this.Load += new System.EventHandler(this.Giai_Phuong_Trinh_Bac_Nhat_Hai_An_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

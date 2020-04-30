@@ -1,0 +1,21 @@
+C:\Users\carzy\source\repos\Dictionary\Dictionary\bin\Debug\Dictionary.exe.config
+C:\Users\carzy\source\repos\Dictionary\Dictionary\bin\Debug\Dictionary.exe
+C:\Users\carzy\source\repos\Dictionary\Dictionary\bin\Debug\Dictionary.pdb
+C:\Users\carzy\source\repos\Dictionary\Dictionary\obj\Debug\Dictionary.csprojAssemblyReference.cache
+C:\Users\carzy\source\repos\Dictionary\Dictionary\obj\Debug\Dictionary.Form1.resources
+C:\Users\carzy\source\repos\Dictionary\Dictionary\obj\Debug\Dictionary.Properties.Resources.resources
+C:\Users\carzy\source\repos\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.GenerateResource.cache
+C:\Users\carzy\source\repos\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\carzy\source\repos\Dictionary\Dictionary\obj\Debug\Dictionary.exe
+C:\Users\carzy\source\repos\Dictionary\Dictionary\obj\Debug\Dictionary.pdb
+C:\Users\carzy\Documents\GitHub\VPT\VPT-master\VPT-master\Source Code\Dictionary\obj\Debug\Dictionary.csprojAssemblyReference.cache
+C:\Users\carzy\Documents\GitHub\VPT\VPT-master\VPT-master\Source Code\Dictionary\obj\Debug\Dictionary.Form1.resources
+C:\Users\carzy\Documents\GitHub\VPT\VPT-master\VPT-master\Source Code\Dictionary\obj\Debug\Dictionary.Properties.Resources.resources
+C:\Users\carzy\Documents\GitHub\VPT\VPT-master\VPT-master\Source Code\Dictionary\obj\Debug\Dictionary.csproj.GenerateResource.cache
+C:\Users\carzy\Documents\GitHub\VPT\VPT-master\VPT-master\Source Code\Dictionary\obj\Debug\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\carzy\Documents\GitHub\VPT\VPT-master\VPT-master\Source Code\Dictionary\obj\Debug\Dictionary.exe
+C:\Users\carzy\Documents\GitHub\VPT\VPT-master\VPT-master\Source Code\Dictionary\obj\Debug\Dictionary.pdb
+C:\Users\carzy\Documents\GitHub\VPT\VPT-master\VPT-master\Source Code\Dictionary\bin\Debug\Dictionary.exe.config
+C:\Users\carzy\Documents\GitHub\VPT\VPT-master\VPT-master\Source Code\Dictionary\bin\Debug\Dictionary.exe
+C:\Users\carzy\Documents\GitHub\VPT\VPT-master\VPT-master\Source Code\Dictionary\bin\Debug\Dictionary.pdb
+C:\Users\carzy\Documents\GitHub\VPT\VPT-master\VPT-master\Source Code\Dictionary\obj\Debug\Dictionary.Form2.resources

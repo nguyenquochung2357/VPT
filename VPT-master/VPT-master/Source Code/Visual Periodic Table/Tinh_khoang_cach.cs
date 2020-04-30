@@ -15,5 +15,10 @@ namespace Visual_Periodic_Table
         {
             InitializeComponent();
         }
+
+        private void Tinh_khoang_cach_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

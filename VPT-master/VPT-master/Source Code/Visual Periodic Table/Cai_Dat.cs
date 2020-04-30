@@ -20,25 +20,31 @@ namespace Visual_Periodic_Table
         {
             if (rdbDo.Checked == true) 
             {
+
+               
                 fchinh fchinh = new fchinh();
                 fchinh.BackColor = Color.Red;
                 fchinh.pn7.BackColor = Color.Red;
                 fchinh.ShowDialog();
-                //this.Close();
+
             }
             if (rdbXanh.Checked == true) 
             {
+                
                 fchinh fchinh = new fchinh();
                 fchinh.BackColor = Color.Green;
                 fchinh.pn7.BackColor = Color.Green ;
                 fchinh.ShowDialog();
+           
             }
             if (rdbXam.Checked == true) 
             {
+                
                 fchinh fchinh = new fchinh();
                 fchinh.BackColor = Color.Gray ;
                 fchinh.pn7.BackColor = Color.Gray ;
                 fchinh.ShowDialog();
+               
             }
         }
 
@@ -60,6 +66,12 @@ namespace Visual_Periodic_Table
         private void btnthoat_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void rdbXanh_CheckedChanged(object sender, EventArgs e)
+        {
+          
+            
         }
     }
 }

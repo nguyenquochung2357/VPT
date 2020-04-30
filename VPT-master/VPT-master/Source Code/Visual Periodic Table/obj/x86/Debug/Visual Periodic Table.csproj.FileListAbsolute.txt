@@ -169,12 +169,10 @@ C:\Users\carzy\Documents\GitHub\VPT\VPT-master\VPT-master\Source Code\Visual Per
 C:\Users\carzy\Documents\GitHub\VPT\VPT-master\VPT-master\Source Code\Visual Periodic Table\obj\x86\Debug\Visual_Periodic_Table.Properties.Resources.resources
 C:\Users\carzy\Documents\GitHub\VPT\VPT-master\VPT-master\Source Code\Visual Periodic Table\obj\x86\Debug\Visual_Periodic_Table.Thong_Tin_Nguyen_To.resources
 C:\Users\carzy\Documents\GitHub\VPT\VPT-master\VPT-master\Source Code\Visual Periodic Table\obj\x86\Debug\Visual_Periodic_Table.Thong_Tin_Phan_Mem.resources
-C:\Users\carzy\Documents\GitHub\VPT\VPT-master\VPT-master\Source Code\Visual Periodic Table\obj\x86\Debug\Visual_Periodic_Table.Tinh_Dien_Tro.resources
 C:\Users\carzy\Documents\GitHub\VPT\VPT-master\VPT-master\Source Code\Visual Periodic Table\obj\x86\Debug\Visual_Periodic_Table.Tinh_Mol.resources
 C:\Users\carzy\Documents\GitHub\VPT\VPT-master\VPT-master\Source Code\Visual Periodic Table\obj\x86\Debug\Visual_Periodic_Table.Tinh_nguyen_tu_khoi.resources
 C:\Users\carzy\Documents\GitHub\VPT\VPT-master\VPT-master\Source Code\Visual Periodic Table\obj\x86\Debug\Visual_Periodic_Table.Ti_Le_Cac_Nguyen_To.resources
 C:\Users\carzy\Documents\GitHub\VPT\VPT-master\VPT-master\Source Code\Visual Periodic Table\obj\x86\Debug\Visual_Periodic_Table.Trinh_Duyet.resources
-C:\Users\carzy\Documents\GitHub\VPT\VPT-master\VPT-master\Source Code\Visual Periodic Table\obj\x86\Debug\Visual_Periodic_Table.Video_Huong_Dan.resources
 C:\Users\carzy\Documents\GitHub\VPT\VPT-master\VPT-master\Source Code\Visual Periodic Table\obj\x86\Debug\Visual Periodic Table.csproj.GenerateResource.cache
 C:\Users\carzy\Documents\GitHub\VPT\VPT-master\VPT-master\Source Code\Visual Periodic Table\obj\x86\Debug\Visual Periodic Table.exe
 C:\Users\carzy\Documents\GitHub\VPT\VPT-master\VPT-master\Source Code\Visual Periodic Table\obj\x86\Debug\Visual Periodic Table.pdb
@@ -183,3 +181,4 @@ C:\Users\carzy\Documents\GitHub\VPT\VPT-master\VPT-master\Source Code\Visual Per
 C:\Users\carzy\Documents\GitHub\VPT\VPT-master\VPT-master\Source Code\Visual Periodic Table\obj\x86\Debug\Visual Periodic Table.csproj.CoreCompileInputs.cache
 C:\Users\carzy\Documents\GitHub\VPT\VPT-master\VPT-master\Source Code\Visual Periodic Table\obj\x86\Debug\Visual_Periodic_Table.Kienthuchoahoccoban.resources
 C:\Users\carzy\Documents\GitHub\VPT\VPT-master\VPT-master\Source Code\Visual Periodic Table\obj\x86\Debug\Visual_Periodic_Table.Tinh_khoang_cach.resources
+C:\Users\carzy\Documents\GitHub\VPT\VPT-master\VPT-master\Source Code\Visual Periodic Table\obj\x86\Debug\Visual_Periodic_Table.Tinhkhoangcach.resources

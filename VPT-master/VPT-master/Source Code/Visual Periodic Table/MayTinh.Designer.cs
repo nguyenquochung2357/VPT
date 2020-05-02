@@ -156,6 +156,7 @@
             this.button11.Text = "1";
             this.button11.UseVisualStyleBackColor = true;
             this.button11.ClientSizeChanged += new System.EventHandler(this.button_Click);
+            this.button11.Click += new System.EventHandler(this.button_Click);
             // 
             // button12
             // 

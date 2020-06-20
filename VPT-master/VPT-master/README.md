@@ -33,7 +33,7 @@ Quy trình làm phần mềm
 3.	Code chức năng chính
 4.	Kiểm thử phần mềm
 5.	Tăng cường tính năng
-Các môi trường phát triển, các IDE phát triển mà em sử dụng
+</p>Các môi trường phát triển, các IDE phát triển mà em sử dụng</p>
 1.	Ngôn ngữ C#
 2.	Visual Studio 2019
 

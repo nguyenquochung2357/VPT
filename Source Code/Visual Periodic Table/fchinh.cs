@@ -4041,5 +4041,15 @@ namespace Visual_Periodic_Table
             this.Close();
            
         }
+
+        private void thamGiaDiễnĐànToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Process.Start("https://pinchanqh.000webhostapp.com/");
+        }
+
+        private void thamGiaDiễnĐànToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            Process.Start("https://pinchanqh.000webhostapp.com/");
+        }
     }
 }

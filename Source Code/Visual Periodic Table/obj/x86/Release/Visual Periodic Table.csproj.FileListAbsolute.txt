@@ -1,0 +1,45 @@
+D:\Github\VPT\Source Code\Visual Periodic Table\bin\Release\DATA\DBVPT.mdf
+D:\Github\VPT\Source Code\Visual Periodic Table\bin\Release\DATA\DBVPT_log.ldf
+D:\Github\VPT\Source Code\Visual Periodic Table\bin\Release\DBVPT.mdf
+D:\Github\VPT\Source Code\Visual Periodic Table\bin\Release\DBVPT_log.ldf
+D:\Github\VPT\Source Code\Visual Periodic Table\bin\Release\MayTinh.resx
+D:\Github\VPT\Source Code\Visual Periodic Table\bin\Release\Visual Periodic Table.exe.config
+D:\Github\VPT\Source Code\Visual Periodic Table\bin\Release\Visual Periodic Table.exe
+D:\Github\VPT\Source Code\Visual Periodic Table\bin\Release\Visual Periodic Table.pdb
+D:\Github\VPT\Source Code\Visual Periodic Table\bin\Release\Interop.SHDocVw.dll
+D:\Github\VPT\Source Code\Visual Periodic Table\bin\Release\Interop.WMPLib.dll
+D:\Github\VPT\Source Code\Visual Periodic Table\bin\Release\AxInterop.SHDocVw.dll
+D:\Github\VPT\Source Code\Visual Periodic Table\bin\Release\AxInterop.WMPLib.dll
+D:\Github\VPT\Source Code\Visual Periodic Table\obj\x86\Release\Visual Periodic Table.csprojAssemblyReference.cache
+D:\Github\VPT\Source Code\Visual Periodic Table\obj\x86\Release\Interop.SHDocVw.dll
+D:\Github\VPT\Source Code\Visual Periodic Table\obj\x86\Release\Interop.WMPLib.dll
+D:\Github\VPT\Source Code\Visual Periodic Table\obj\x86\Release\AxInterop.SHDocVw.dll
+D:\Github\VPT\Source Code\Visual Periodic Table\obj\x86\Release\AxInterop.WMPLib.dll
+D:\Github\VPT\Source Code\Visual Periodic Table\obj\x86\Release\Visual Periodic Table.csproj.ResolveComReference.cache
+D:\Github\VPT\Source Code\Visual Periodic Table\obj\x86\Release\Visual_Periodic_Table.Bang_Tinh_Tan.resources
+D:\Github\VPT\Source Code\Visual Periodic Table\obj\x86\Release\Visual_Periodic_Table.Bieu_Do_Dien_Loat.resources
+D:\Github\VPT\Source Code\Visual Periodic Table\obj\x86\Release\Visual_Periodic_Table.Cai_Dat.resources
+D:\Github\VPT\Source Code\Visual Periodic Table\obj\x86\Release\Visual_Periodic_Table.Chuyen_Doi.resources
+D:\Github\VPT\Source Code\Visual Periodic Table\obj\x86\Release\Visual_Periodic_Table.fchinh.resources
+D:\Github\VPT\Source Code\Visual Periodic Table\obj\x86\Release\Visual_Periodic_Table.Form_Chao_Mung.resources
+D:\Github\VPT\Source Code\Visual Periodic Table\obj\x86\Release\Visual_Periodic_Table.Giai_Phuong_Trinh_Bac_Hai.resources
+D:\Github\VPT\Source Code\Visual Periodic Table\obj\x86\Release\Visual_Periodic_Table.Giai_Phuong_Trinh_Bac_Nhat.resources
+D:\Github\VPT\Source Code\Visual Periodic Table\obj\x86\Release\Visual_Periodic_Table.Giai_Phuong_Trinh_Bac_Nhat_Hai_An.resources
+D:\Github\VPT\Source Code\Visual Periodic Table\obj\x86\Release\Visual_Periodic_Table.Kham_Pha_Ca_Mau.resources
+D:\Github\VPT\Source Code\Visual Periodic Table\obj\x86\Release\Visual_Periodic_Table.Kienthuchoahoccoban.resources
+D:\Github\VPT\Source Code\Visual Periodic Table\obj\x86\Release\Visual_Periodic_Table.Nhom_Lantan.resources
+D:\Github\VPT\Source Code\Visual Periodic Table\obj\x86\Release\Visual_Periodic_Table.Nong_Do_Phan_Tram.resources
+D:\Github\VPT\Source Code\Visual Periodic Table\obj\x86\Release\Visual_Periodic_Table.Phan_Bo_khoi_luong.resources
+D:\Github\VPT\Source Code\Visual Periodic Table\obj\x86\Release\Visual_Periodic_Table.Properties.Resources.resources
+D:\Github\VPT\Source Code\Visual Periodic Table\obj\x86\Release\Visual_Periodic_Table.Thong_Tin_Nguyen_To.resources
+D:\Github\VPT\Source Code\Visual Periodic Table\obj\x86\Release\Visual_Periodic_Table.Thong_Tin_Phan_Mem.resources
+D:\Github\VPT\Source Code\Visual Periodic Table\obj\x86\Release\Visual_Periodic_Table.Tinhkhoangcach.resources
+D:\Github\VPT\Source Code\Visual Periodic Table\obj\x86\Release\Visual_Periodic_Table.Tinh_khoang_cach.resources
+D:\Github\VPT\Source Code\Visual Periodic Table\obj\x86\Release\Visual_Periodic_Table.Tinh_Mol.resources
+D:\Github\VPT\Source Code\Visual Periodic Table\obj\x86\Release\Visual_Periodic_Table.Tinh_nguyen_tu_khoi.resources
+D:\Github\VPT\Source Code\Visual Periodic Table\obj\x86\Release\Visual_Periodic_Table.Ti_Le_Cac_Nguyen_To.resources
+D:\Github\VPT\Source Code\Visual Periodic Table\obj\x86\Release\Visual_Periodic_Table.Trinh_Duyet.resources
+D:\Github\VPT\Source Code\Visual Periodic Table\obj\x86\Release\Visual Periodic Table.csproj.GenerateResource.cache
+D:\Github\VPT\Source Code\Visual Periodic Table\obj\x86\Release\Visual Periodic Table.csproj.CoreCompileInputs.cache
+D:\Github\VPT\Source Code\Visual Periodic Table\obj\x86\Release\Visual Periodic Table.exe
+D:\Github\VPT\Source Code\Visual Periodic Table\obj\x86\Release\Visual Periodic Table.pdb

@@ -34,6 +34,7 @@
             this.label3 = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.btnthongtinthem = new System.Windows.Forms.Button();
+            this.button1 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -79,7 +80,7 @@
             // 
             // btnthongtinthem
             // 
-            this.btnthongtinthem.Location = new System.Drawing.Point(126, 168);
+            this.btnthongtinthem.Location = new System.Drawing.Point(212, 168);
             this.btnthongtinthem.Name = "btnthongtinthem";
             this.btnthongtinthem.Size = new System.Drawing.Size(101, 23);
             this.btnthongtinthem.TabIndex = 5;
@@ -87,11 +88,22 @@
             this.btnthongtinthem.UseVisualStyleBackColor = true;
             this.btnthongtinthem.Click += new System.EventHandler(this.btnthongtinthem_Click);
             // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(30, 168);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(127, 23);
+            this.button1.TabIndex = 6;
+            this.button1.Text = "Nguyễn Quốc Hùng";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
             // Thong_Tin_Phan_Mem
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(350, 203);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.btnthongtinthem);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
@@ -117,5 +129,6 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Button btnthongtinthem;
+        private System.Windows.Forms.Button button1;
     }
 }

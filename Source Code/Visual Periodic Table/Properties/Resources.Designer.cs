@@ -63,6 +63,26 @@ namespace Visual_Periodic_Table.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _123_1_1024x478 {
+            get {
+                object obj = ResourceManager.GetObject("123-1-1024x478", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _123_1_1024x4781 {
+            get {
+                object obj = ResourceManager.GetObject("123-1-1024x4781", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap _250px_Bản_đồ_tỉnh_Cà_Mau {
             get {
                 object obj = ResourceManager.GetObject("250px-Bản_đồ_tỉnh_Cà_Mau", resourceCulture);

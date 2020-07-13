@@ -239,7 +239,6 @@ D:\Github\VPT\Source Code\Visual Periodic Table\bin\Debug\Interop.SHDocVw.dll
 D:\Github\VPT\Source Code\Visual Periodic Table\bin\Debug\Interop.WMPLib.dll
 D:\Github\VPT\Source Code\Visual Periodic Table\bin\Debug\AxInterop.SHDocVw.dll
 D:\Github\VPT\Source Code\Visual Periodic Table\bin\Debug\AxInterop.WMPLib.dll
-D:\Github\VPT\Source Code\Visual Periodic Table\obj\x86\Debug\Visual Periodic Table.csprojAssemblyReference.cache
 D:\Github\VPT\Source Code\Visual Periodic Table\obj\x86\Debug\Interop.SHDocVw.dll
 D:\Github\VPT\Source Code\Visual Periodic Table\obj\x86\Debug\Interop.WMPLib.dll
 D:\Github\VPT\Source Code\Visual Periodic Table\obj\x86\Debug\AxInterop.SHDocVw.dll
@@ -272,3 +271,4 @@ D:\Github\VPT\Source Code\Visual Periodic Table\obj\x86\Debug\Visual Periodic Ta
 D:\Github\VPT\Source Code\Visual Periodic Table\obj\x86\Debug\Visual Periodic Table.csproj.CoreCompileInputs.cache
 D:\Github\VPT\Source Code\Visual Periodic Table\obj\x86\Debug\Visual Periodic Table.exe
 D:\Github\VPT\Source Code\Visual Periodic Table\obj\x86\Debug\Visual Periodic Table.pdb
+D:\Github\VPT\Source Code\Visual Periodic Table\obj\x86\Debug\Visual Periodic Table.csprojAssemblyReference.cache

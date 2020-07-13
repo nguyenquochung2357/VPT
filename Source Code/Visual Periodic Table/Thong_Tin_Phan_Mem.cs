@@ -30,5 +30,10 @@ namespace Visual_Periodic_Table
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Process.Start("https://www.facebook.com/dev.nguyenquochung/");
+        }
     }
 }

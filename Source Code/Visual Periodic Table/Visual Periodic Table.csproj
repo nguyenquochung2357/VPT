@@ -572,6 +572,7 @@
     <Content Include="Kham_Pha_Ca_Mau\toa_do.jpg" />
     <Content Include="Kham_Pha_Ca_Mau\uminha.jpg" />
     <Content Include="Kham_Pha_Ca_Mau\ve_dep_dam_thi_tuong.jpg" />
+    <None Include="Resources\123-1-1024x478.png" />
     <Content Include="Resources\beryllium.jpg" />
     <None Include="Resources\IconVPTN.PNG" />
   </ItemGroup>

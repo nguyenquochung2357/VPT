@@ -1,0 +1,93 @@
+/* MAKE FROM NGUYEN QUOC HUNG*/
+
+body{
+    background-image: url("./image/nenweb.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.btn{
+   
+    margin-top: 5%;
+    margin-left: 30%;
+   
+    cursor: pointer;
+    color: #44d7b6;
+    font-size: 14px;
+    font-weight: 700;
+    text-align: center;
+    border-radius: 6px;
+    padding: 11px 15px;
+    min-width: 220px;
+    background-color: #0f1e2f;
+    white-space: nowrap;
+    cursor: pointer;
+    border: none;
+}
+.dl{
+    margin-top: 10%;
+   
+
+}
+#btn2{
+    margin-left: 5%;
+}
+#message{
+    margin-left: 0%;
+    font-size: 20px;
+    margin-top: 5px;
+}
+#ndl{
+    margin-left: 35%;
+}
+
+
+.btn:hover {
+    background-color: #f1f1f1;
+    color: #44d7b6;
+    border: none;
+    
+   }
+#inputFormula{
+   
+        padding: 9px 18px;
+        background: #151D28;
+        border-radius: 2px;
+        line-height: 24px;
+        height: auto;
+        border: none;
+        color: #FFF;
+}
+h1{
+    text-align: center;
+    font-family: 'Mali', cursive;
+    color: rgba(255, 255, 255, 0.75);
+    margin-top: 5%;
+}
+.cb{
+  
+    margin-left: 33%;
+}
+
+body{
+    overflow-x:hidden;
+    /*xóa thanh cuộn ngang*/
+}
+.ndl{
+    font-size: 20px;
+}
+.btn:focus{
+    outline: 0;
+}
+#inputFormula:focus{
+    outline: 0;
+}
+.btn::-moz-focus-inner {border:0;}
+html,
+body {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}

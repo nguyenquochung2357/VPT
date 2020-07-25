@@ -4051,5 +4051,11 @@ namespace Visual_Periodic_Table
         {
             Process.Start("https://pinchanqh.000webhostapp.com/");
         }
+
+        private void cânBằngPTHHToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form2 f = new Form2();
+            f.Show();
+        }
     }
 }

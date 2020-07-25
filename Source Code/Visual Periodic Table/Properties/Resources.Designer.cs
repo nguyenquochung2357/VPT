@@ -363,6 +363,16 @@ namespace Visual_Periodic_Table.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap iconp2 {
+            get {
+                object obj = ResourceManager.GetObject("iconp2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap IconVPTN {
             get {
                 object obj = ResourceManager.GetObject("IconVPTN", resourceCulture);

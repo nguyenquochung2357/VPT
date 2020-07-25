@@ -236,246 +236,6 @@ Franxi</value>
   <data name="pn6.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Bottom, Right</value>
   </data>
-  <data name="&gt;&gt;btrn.Name" xml:space="preserve">
-    <value>btrn</value>
-  </data>
-  <data name="&gt;&gt;btrn.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btrn.Parent" xml:space="preserve">
-    <value>pn6</value>
-  </data>
-  <data name="&gt;&gt;btrn.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;btpo.Name" xml:space="preserve">
-    <value>btpo</value>
-  </data>
-  <data name="&gt;&gt;btpo.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btpo.Parent" xml:space="preserve">
-    <value>pn6</value>
-  </data>
-  <data name="&gt;&gt;btpo.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;btat.Name" xml:space="preserve">
-    <value>btat</value>
-  </data>
-  <data name="&gt;&gt;btat.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btat.Parent" xml:space="preserve">
-    <value>pn6</value>
-  </data>
-  <data name="&gt;&gt;btat.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;btbi.Name" xml:space="preserve">
-    <value>btbi</value>
-  </data>
-  <data name="&gt;&gt;btbi.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btbi.Parent" xml:space="preserve">
-    <value>pn6</value>
-  </data>
-  <data name="&gt;&gt;btbi.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;btpb.Name" xml:space="preserve">
-    <value>btpb</value>
-  </data>
-  <data name="&gt;&gt;btpb.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btpb.Parent" xml:space="preserve">
-    <value>pn6</value>
-  </data>
-  <data name="&gt;&gt;btpb.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="&gt;&gt;bttl.Name" xml:space="preserve">
-    <value>bttl</value>
-  </data>
-  <data name="&gt;&gt;bttl.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;bttl.Parent" xml:space="preserve">
-    <value>pn6</value>
-  </data>
-  <data name="&gt;&gt;bttl.ZOrder" xml:space="preserve">
-    <value>5</value>
-  </data>
-  <data name="&gt;&gt;bthg.Name" xml:space="preserve">
-    <value>bthg</value>
-  </data>
-  <data name="&gt;&gt;bthg.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;bthg.Parent" xml:space="preserve">
-    <value>pn6</value>
-  </data>
-  <data name="&gt;&gt;bthg.ZOrder" xml:space="preserve">
-    <value>6</value>
-  </data>
-  <data name="&gt;&gt;btau.Name" xml:space="preserve">
-    <value>btau</value>
-  </data>
-  <data name="&gt;&gt;btau.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btau.Parent" xml:space="preserve">
-    <value>pn6</value>
-  </data>
-  <data name="&gt;&gt;btau.ZOrder" xml:space="preserve">
-    <value>7</value>
-  </data>
-  <data name="&gt;&gt;btpt.Name" xml:space="preserve">
-    <value>btpt</value>
-  </data>
-  <data name="&gt;&gt;btpt.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btpt.Parent" xml:space="preserve">
-    <value>pn6</value>
-  </data>
-  <data name="&gt;&gt;btpt.ZOrder" xml:space="preserve">
-    <value>8</value>
-  </data>
-  <data name="&gt;&gt;btir.Name" xml:space="preserve">
-    <value>btir</value>
-  </data>
-  <data name="&gt;&gt;btir.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btir.Parent" xml:space="preserve">
-    <value>pn6</value>
-  </data>
-  <data name="&gt;&gt;btir.ZOrder" xml:space="preserve">
-    <value>9</value>
-  </data>
-  <data name="&gt;&gt;btos.Name" xml:space="preserve">
-    <value>btos</value>
-  </data>
-  <data name="&gt;&gt;btos.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btos.Parent" xml:space="preserve">
-    <value>pn6</value>
-  </data>
-  <data name="&gt;&gt;btos.ZOrder" xml:space="preserve">
-    <value>10</value>
-  </data>
-  <data name="&gt;&gt;btre.Name" xml:space="preserve">
-    <value>btre</value>
-  </data>
-  <data name="&gt;&gt;btre.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btre.Parent" xml:space="preserve">
-    <value>pn6</value>
-  </data>
-  <data name="&gt;&gt;btre.ZOrder" xml:space="preserve">
-    <value>11</value>
-  </data>
-  <data name="&gt;&gt;btw.Name" xml:space="preserve">
-    <value>btw</value>
-  </data>
-  <data name="&gt;&gt;btw.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btw.Parent" xml:space="preserve">
-    <value>pn6</value>
-  </data>
-  <data name="&gt;&gt;btw.ZOrder" xml:space="preserve">
-    <value>12</value>
-  </data>
-  <data name="&gt;&gt;btta.Name" xml:space="preserve">
-    <value>btta</value>
-  </data>
-  <data name="&gt;&gt;btta.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btta.Parent" xml:space="preserve">
-    <value>pn6</value>
-  </data>
-  <data name="&gt;&gt;btta.ZOrder" xml:space="preserve">
-    <value>13</value>
-  </data>
-  <data name="&gt;&gt;bthf.Name" xml:space="preserve">
-    <value>bthf</value>
-  </data>
-  <data name="&gt;&gt;bthf.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;bthf.Parent" xml:space="preserve">
-    <value>pn6</value>
-  </data>
-  <data name="&gt;&gt;bthf.ZOrder" xml:space="preserve">
-    <value>14</value>
-  </data>
-  <data name="&gt;&gt;btlantan.Name" xml:space="preserve">
-    <value>btlantan</value>
-  </data>
-  <data name="&gt;&gt;btlantan.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btlantan.Parent" xml:space="preserve">
-    <value>pn6</value>
-  </data>
-  <data name="&gt;&gt;btlantan.ZOrder" xml:space="preserve">
-    <value>15</value>
-  </data>
-  <data name="&gt;&gt;btba.Name" xml:space="preserve">
-    <value>btba</value>
-  </data>
-  <data name="&gt;&gt;btba.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btba.Parent" xml:space="preserve">
-    <value>pn6</value>
-  </data>
-  <data name="&gt;&gt;btba.ZOrder" xml:space="preserve">
-    <value>16</value>
-  </data>
-  <data name="&gt;&gt;btcs.Name" xml:space="preserve">
-    <value>btcs</value>
-  </data>
-  <data name="&gt;&gt;btcs.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btcs.Parent" xml:space="preserve">
-    <value>pn6</value>
-  </data>
-  <data name="&gt;&gt;btcs.ZOrder" xml:space="preserve">
-    <value>17</value>
-  </data>
-  <data name="pn6.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 9.75pt</value>
-  </data>
-  <data name="pn6.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 387</value>
-  </data>
-  <data name="pn6.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1282, 66</value>
-  </data>
-  <data name="pn6.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;pn6.Name" xml:space="preserve">
-    <value>pn6</value>
-  </data>
-  <data name="&gt;&gt;pn6.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pn6.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;pn6.ZOrder" xml:space="preserve">
-    <value>56</value>
-  </data>
   <data name="btrn.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
@@ -997,248 +757,32 @@ Xesi</value>
   <data name="&gt;&gt;btcs.ZOrder" xml:space="preserve">
     <value>17</value>
   </data>
-  <data name="panel1.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Bottom, Right</value>
-  </data>
-  <data name="&gt;&gt;btxe.Name" xml:space="preserve">
-    <value>btxe</value>
-  </data>
-  <data name="&gt;&gt;btxe.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btxe.Parent" xml:space="preserve">
-    <value>panel1</value>
-  </data>
-  <data name="&gt;&gt;btxe.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;bti.Name" xml:space="preserve">
-    <value>bti</value>
-  </data>
-  <data name="&gt;&gt;bti.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;bti.Parent" xml:space="preserve">
-    <value>panel1</value>
-  </data>
-  <data name="&gt;&gt;bti.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;button16.Name" xml:space="preserve">
-    <value>button16</value>
-  </data>
-  <data name="&gt;&gt;button16.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;button16.Parent" xml:space="preserve">
-    <value>panel1</value>
-  </data>
-  <data name="&gt;&gt;button16.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;btsb.Name" xml:space="preserve">
-    <value>btsb</value>
-  </data>
-  <data name="&gt;&gt;btsb.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btsb.Parent" xml:space="preserve">
-    <value>panel1</value>
-  </data>
-  <data name="&gt;&gt;btsb.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;btsn.Name" xml:space="preserve">
-    <value>btsn</value>
-  </data>
-  <data name="&gt;&gt;btsn.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btsn.Parent" xml:space="preserve">
-    <value>panel1</value>
-  </data>
-  <data name="&gt;&gt;btsn.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="&gt;&gt;button13.Name" xml:space="preserve">
-    <value>button13</value>
-  </data>
-  <data name="&gt;&gt;button13.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;button13.Parent" xml:space="preserve">
-    <value>panel1</value>
-  </data>
-  <data name="&gt;&gt;button13.ZOrder" xml:space="preserve">
-    <value>5</value>
-  </data>
-  <data name="&gt;&gt;btcd.Name" xml:space="preserve">
-    <value>btcd</value>
-  </data>
-  <data name="&gt;&gt;btcd.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btcd.Parent" xml:space="preserve">
-    <value>panel1</value>
-  </data>
-  <data name="&gt;&gt;btcd.ZOrder" xml:space="preserve">
-    <value>6</value>
-  </data>
-  <data name="&gt;&gt;btag.Name" xml:space="preserve">
-    <value>btag</value>
-  </data>
-  <data name="&gt;&gt;btag.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btag.Parent" xml:space="preserve">
-    <value>panel1</value>
-  </data>
-  <data name="&gt;&gt;btag.ZOrder" xml:space="preserve">
-    <value>7</value>
-  </data>
-  <data name="&gt;&gt;btpd.Name" xml:space="preserve">
-    <value>btpd</value>
-  </data>
-  <data name="&gt;&gt;btpd.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btpd.Parent" xml:space="preserve">
-    <value>panel1</value>
-  </data>
-  <data name="&gt;&gt;btpd.ZOrder" xml:space="preserve">
-    <value>8</value>
-  </data>
-  <data name="&gt;&gt;btrh.Name" xml:space="preserve">
-    <value>btrh</value>
-  </data>
-  <data name="&gt;&gt;btrh.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btrh.Parent" xml:space="preserve">
-    <value>panel1</value>
-  </data>
-  <data name="&gt;&gt;btrh.ZOrder" xml:space="preserve">
-    <value>9</value>
-  </data>
-  <data name="&gt;&gt;btru.Name" xml:space="preserve">
-    <value>btru</value>
-  </data>
-  <data name="&gt;&gt;btru.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btru.Parent" xml:space="preserve">
-    <value>panel1</value>
-  </data>
-  <data name="&gt;&gt;btru.ZOrder" xml:space="preserve">
-    <value>10</value>
-  </data>
-  <data name="&gt;&gt;bttc.Name" xml:space="preserve">
-    <value>bttc</value>
-  </data>
-  <data name="&gt;&gt;bttc.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;bttc.Parent" xml:space="preserve">
-    <value>panel1</value>
-  </data>
-  <data name="&gt;&gt;bttc.ZOrder" xml:space="preserve">
-    <value>11</value>
-  </data>
-  <data name="&gt;&gt;btmo.Name" xml:space="preserve">
-    <value>btmo</value>
-  </data>
-  <data name="&gt;&gt;btmo.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btmo.Parent" xml:space="preserve">
-    <value>panel1</value>
-  </data>
-  <data name="&gt;&gt;btmo.ZOrder" xml:space="preserve">
-    <value>12</value>
-  </data>
-  <data name="&gt;&gt;btnb.Name" xml:space="preserve">
-    <value>btnb</value>
-  </data>
-  <data name="&gt;&gt;btnb.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btnb.Parent" xml:space="preserve">
-    <value>panel1</value>
-  </data>
-  <data name="&gt;&gt;btnb.ZOrder" xml:space="preserve">
-    <value>13</value>
-  </data>
-  <data name="&gt;&gt;btzr.Name" xml:space="preserve">
-    <value>btzr</value>
-  </data>
-  <data name="&gt;&gt;btzr.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btzr.Parent" xml:space="preserve">
-    <value>panel1</value>
-  </data>
-  <data name="&gt;&gt;btzr.ZOrder" xml:space="preserve">
-    <value>14</value>
-  </data>
-  <data name="&gt;&gt;bty.Name" xml:space="preserve">
-    <value>bty</value>
-  </data>
-  <data name="&gt;&gt;bty.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;bty.Parent" xml:space="preserve">
-    <value>panel1</value>
-  </data>
-  <data name="&gt;&gt;bty.ZOrder" xml:space="preserve">
-    <value>15</value>
-  </data>
-  <data name="&gt;&gt;btsr.Name" xml:space="preserve">
-    <value>btsr</value>
-  </data>
-  <data name="&gt;&gt;btsr.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btsr.Parent" xml:space="preserve">
-    <value>panel1</value>
-  </data>
-  <data name="&gt;&gt;btsr.ZOrder" xml:space="preserve">
-    <value>16</value>
-  </data>
-  <data name="&gt;&gt;btrb.Name" xml:space="preserve">
-    <value>btrb</value>
-  </data>
-  <data name="&gt;&gt;btrb.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btrb.Parent" xml:space="preserve">
-    <value>panel1</value>
-  </data>
-  <data name="&gt;&gt;btrb.ZOrder" xml:space="preserve">
-    <value>17</value>
-  </data>
-  <data name="panel1.Font" type="System.Drawing.Font, System.Drawing">
+  <data name="pn6.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 9.75pt</value>
   </data>
-  <data name="panel1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 310</value>
+  <data name="pn6.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 387</value>
   </data>
-  <data name="panel1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1282, 71</value>
+  <data name="pn6.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1282, 66</value>
   </data>
-  <data name="panel1.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
+  <data name="pn6.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
   </data>
-  <data name="&gt;&gt;panel1.Name" xml:space="preserve">
-    <value>panel1</value>
+  <data name="&gt;&gt;pn6.Name" xml:space="preserve">
+    <value>pn6</value>
   </data>
-  <data name="&gt;&gt;panel1.Type" xml:space="preserve">
+  <data name="&gt;&gt;pn6.Type" xml:space="preserve">
     <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;panel1.Parent" xml:space="preserve">
+  <data name="&gt;&gt;pn6.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
-  <data name="&gt;&gt;panel1.ZOrder" xml:space="preserve">
-    <value>54</value>
+  <data name="&gt;&gt;pn6.ZOrder" xml:space="preserve">
+    <value>56</value>
+  </data>
+  <data name="panel1.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
   </data>
   <data name="btxe.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -1762,6 +1306,30 @@ Rubiđi</value>
   <data name="&gt;&gt;btrb.ZOrder" xml:space="preserve">
     <value>17</value>
   </data>
+  <data name="panel1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="panel1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 310</value>
+  </data>
+  <data name="panel1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1282, 71</value>
+  </data>
+  <data name="panel1.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;panel1.Name" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;panel1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panel1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;panel1.ZOrder" xml:space="preserve">
+    <value>54</value>
+  </data>
   <data name="btk.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
@@ -1793,234 +1361,6 @@ Kali</value>
   </data>
   <data name="panel2.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Bottom, Right</value>
-  </data>
-  <data name="&gt;&gt;btkr.Name" xml:space="preserve">
-    <value>btkr</value>
-  </data>
-  <data name="&gt;&gt;btkr.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btkr.Parent" xml:space="preserve">
-    <value>panel2</value>
-  </data>
-  <data name="&gt;&gt;btkr.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;btbr.Name" xml:space="preserve">
-    <value>btbr</value>
-  </data>
-  <data name="&gt;&gt;btbr.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btbr.Parent" xml:space="preserve">
-    <value>panel2</value>
-  </data>
-  <data name="&gt;&gt;btbr.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;btse.Name" xml:space="preserve">
-    <value>btse</value>
-  </data>
-  <data name="&gt;&gt;btse.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btse.Parent" xml:space="preserve">
-    <value>panel2</value>
-  </data>
-  <data name="&gt;&gt;btse.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;btas.Name" xml:space="preserve">
-    <value>btas</value>
-  </data>
-  <data name="&gt;&gt;btas.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btas.Parent" xml:space="preserve">
-    <value>panel2</value>
-  </data>
-  <data name="&gt;&gt;btas.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;btge.Name" xml:space="preserve">
-    <value>btge</value>
-  </data>
-  <data name="&gt;&gt;btge.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btge.Parent" xml:space="preserve">
-    <value>panel2</value>
-  </data>
-  <data name="&gt;&gt;btge.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="&gt;&gt;btga.Name" xml:space="preserve">
-    <value>btga</value>
-  </data>
-  <data name="&gt;&gt;btga.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btga.Parent" xml:space="preserve">
-    <value>panel2</value>
-  </data>
-  <data name="&gt;&gt;btga.ZOrder" xml:space="preserve">
-    <value>5</value>
-  </data>
-  <data name="&gt;&gt;btzn.Name" xml:space="preserve">
-    <value>btzn</value>
-  </data>
-  <data name="&gt;&gt;btzn.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btzn.Parent" xml:space="preserve">
-    <value>panel2</value>
-  </data>
-  <data name="&gt;&gt;btzn.ZOrder" xml:space="preserve">
-    <value>6</value>
-  </data>
-  <data name="&gt;&gt;btcu.Name" xml:space="preserve">
-    <value>btcu</value>
-  </data>
-  <data name="&gt;&gt;btcu.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btcu.Parent" xml:space="preserve">
-    <value>panel2</value>
-  </data>
-  <data name="&gt;&gt;btcu.ZOrder" xml:space="preserve">
-    <value>7</value>
-  </data>
-  <data name="&gt;&gt;btni.Name" xml:space="preserve">
-    <value>btni</value>
-  </data>
-  <data name="&gt;&gt;btni.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btni.Parent" xml:space="preserve">
-    <value>panel2</value>
-  </data>
-  <data name="&gt;&gt;btni.ZOrder" xml:space="preserve">
-    <value>8</value>
-  </data>
-  <data name="&gt;&gt;btco.Name" xml:space="preserve">
-    <value>btco</value>
-  </data>
-  <data name="&gt;&gt;btco.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btco.Parent" xml:space="preserve">
-    <value>panel2</value>
-  </data>
-  <data name="&gt;&gt;btco.ZOrder" xml:space="preserve">
-    <value>9</value>
-  </data>
-  <data name="&gt;&gt;btfe.Name" xml:space="preserve">
-    <value>btfe</value>
-  </data>
-  <data name="&gt;&gt;btfe.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btfe.Parent" xml:space="preserve">
-    <value>panel2</value>
-  </data>
-  <data name="&gt;&gt;btfe.ZOrder" xml:space="preserve">
-    <value>10</value>
-  </data>
-  <data name="&gt;&gt;btmn.Name" xml:space="preserve">
-    <value>btmn</value>
-  </data>
-  <data name="&gt;&gt;btmn.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btmn.Parent" xml:space="preserve">
-    <value>panel2</value>
-  </data>
-  <data name="&gt;&gt;btmn.ZOrder" xml:space="preserve">
-    <value>11</value>
-  </data>
-  <data name="&gt;&gt;btcr.Name" xml:space="preserve">
-    <value>btcr</value>
-  </data>
-  <data name="&gt;&gt;btcr.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btcr.Parent" xml:space="preserve">
-    <value>panel2</value>
-  </data>
-  <data name="&gt;&gt;btcr.ZOrder" xml:space="preserve">
-    <value>12</value>
-  </data>
-  <data name="&gt;&gt;btv.Name" xml:space="preserve">
-    <value>btv</value>
-  </data>
-  <data name="&gt;&gt;btv.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btv.Parent" xml:space="preserve">
-    <value>panel2</value>
-  </data>
-  <data name="&gt;&gt;btv.ZOrder" xml:space="preserve">
-    <value>13</value>
-  </data>
-  <data name="&gt;&gt;btti.Name" xml:space="preserve">
-    <value>btti</value>
-  </data>
-  <data name="&gt;&gt;btti.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btti.Parent" xml:space="preserve">
-    <value>panel2</value>
-  </data>
-  <data name="&gt;&gt;btti.ZOrder" xml:space="preserve">
-    <value>14</value>
-  </data>
-  <data name="&gt;&gt;btsc.Name" xml:space="preserve">
-    <value>btsc</value>
-  </data>
-  <data name="&gt;&gt;btsc.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btsc.Parent" xml:space="preserve">
-    <value>panel2</value>
-  </data>
-  <data name="&gt;&gt;btsc.ZOrder" xml:space="preserve">
-    <value>15</value>
-  </data>
-  <data name="&gt;&gt;btca.Name" xml:space="preserve">
-    <value>btca</value>
-  </data>
-  <data name="&gt;&gt;btca.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btca.Parent" xml:space="preserve">
-    <value>panel2</value>
-  </data>
-  <data name="&gt;&gt;btca.ZOrder" xml:space="preserve">
-    <value>16</value>
-  </data>
-  <data name="panel2.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 9.75pt</value>
-  </data>
-  <data name="panel2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 235</value>
-  </data>
-  <data name="panel2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1282, 69</value>
-  </data>
-  <data name="panel2.TabIndex" type="System.Int32, mscorlib">
-    <value>4</value>
-  </data>
-  <data name="&gt;&gt;panel2.Name" xml:space="preserve">
-    <value>panel2</value>
-  </data>
-  <data name="&gt;&gt;panel2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;panel2.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;panel2.ZOrder" xml:space="preserve">
-    <value>52</value>
   </data>
   <data name="btkr.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -2514,6 +1854,30 @@ Canxi</value>
   </data>
   <data name="&gt;&gt;btca.ZOrder" xml:space="preserve">
     <value>16</value>
+  </data>
+  <data name="panel2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="panel2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 235</value>
+  </data>
+  <data name="panel2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1282, 69</value>
+  </data>
+  <data name="panel2.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;panel2.Name" xml:space="preserve">
+    <value>panel2</value>
+  </data>
+  <data name="&gt;&gt;panel2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panel2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;panel2.ZOrder" xml:space="preserve">
+    <value>52</value>
   </data>
   <data name="btna.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Bottom, Right</value>
@@ -3150,6 +2514,129 @@ Heli</value>
   </metadata>
   <data name="mnschinh.Font" type="System.Drawing.Font, System.Drawing">
     <value>Segoe UI, 9.75pt</value>
+  </data>
+  <data name="kienthuchoahoacoban.Size" type="System.Drawing.Size, System.Drawing">
+    <value>185, 21</value>
+  </data>
+  <data name="kienthuchoahoacoban.Text" xml:space="preserve">
+    <value>Kiến thức hóa học cơ bản</value>
+  </data>
+  <data name="bảngTínhTanToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>112, 21</value>
+  </data>
+  <data name="bảngTínhTanToolStripMenuItem.Text" xml:space="preserve">
+    <value>Bảng tính tan</value>
+  </data>
+  <data name="điệnLaToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>88, 21</value>
+  </data>
+  <data name="điệnLaToolStripMenuItem.Text" xml:space="preserve">
+    <value>Điện loạt</value>
+  </data>
+  <data name="tỉLệPhầnTrămCácNguyênTốTrongVỏTráiĐấtToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>197, 21</value>
+  </data>
+  <data name="tỉLệPhầnTrămCácNguyênTốTrongVỏTráiĐấtToolStripMenuItem.Text" xml:space="preserve">
+    <value>Tỉ lệ, so sánh các nguyên tố</value>
+  </data>
+  <data name="khamphaCaMau.Size" type="System.Drawing.Size, System.Drawing">
+    <value>144, 21</value>
+  </data>
+  <data name="khamphaCaMau.Text" xml:space="preserve">
+    <value>Khám phá Cà Mau</value>
+  </data>
+  <data name="giảiPhươngTrìnhBậcNhấtToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>271, 22</value>
+  </data>
+  <data name="giảiPhươngTrìnhBậcNhấtToolStripMenuItem.Text" xml:space="preserve">
+    <value>Giải phương trình bậc nhất</value>
+  </data>
+  <data name="giảiPhươngTrìnhBậcHaiToolStripMenuItem1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>271, 22</value>
+  </data>
+  <data name="giảiPhươngTrìnhBậcHaiToolStripMenuItem1.Text" xml:space="preserve">
+    <value>Giải phương trình bậc hai</value>
+  </data>
+  <data name="giảiPhươngTrìnhBậcNhấtHaiẨnToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>271, 22</value>
+  </data>
+  <data name="giảiPhươngTrìnhBậcNhấtHaiẨnToolStripMenuItem.Text" xml:space="preserve">
+    <value>Giải phương trình bậc nhất hai ẩn</value>
+  </data>
+  <data name="máyTinh.Size" type="System.Drawing.Size, System.Drawing">
+    <value>271, 22</value>
+  </data>
+  <data name="máyTinh.Text" xml:space="preserve">
+    <value>Máy Tính</value>
+  </data>
+  <data name="tinhkhoangcach.Size" type="System.Drawing.Size, System.Drawing">
+    <value>271, 22</value>
+  </data>
+  <data name="tinhkhoangcach.Text" xml:space="preserve">
+    <value>Tính khoảng cách </value>
+  </data>
+  <data name="giảiPhươngTrìnhBậcHaiToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>185, 22</value>
+  </data>
+  <data name="giảiPhươngTrìnhBậcHaiToolStripMenuItem.Text" xml:space="preserve">
+    <value>Toán</value>
+  </data>
+  <data name="chuyểnĐổiCácĐơnVịToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>204, 22</value>
+  </data>
+  <data name="chuyểnĐổiCácĐơnVịToolStripMenuItem.Text" xml:space="preserve">
+    <value>Chuyển đổi các đơn vị</value>
+  </data>
+  <data name="vậtLíToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>185, 22</value>
+  </data>
+  <data name="vậtLíToolStripMenuItem.Text" xml:space="preserve">
+    <value>Vật lí</value>
+  </data>
+  <data name="tínhNồngĐộPhầnTrămDungDịchToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>280, 22</value>
+  </data>
+  <data name="tínhNồngĐộPhầnTrămDungDịchToolStripMenuItem.Text" xml:space="preserve">
+    <value>Tính nồng độ phần trăm dung dịch</value>
+  </data>
+  <data name="tínhNồngĐộMolToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>280, 22</value>
+  </data>
+  <data name="tínhNồngĐộMolToolStripMenuItem.Text" xml:space="preserve">
+    <value>Tính nồng độ Mol</value>
+  </data>
+  <data name="hóaHọcToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>185, 22</value>
+  </data>
+  <data name="hóaHọcToolStripMenuItem.Text" xml:space="preserve">
+    <value>Hóa học</value>
+  </data>
+  <data name="thamGiaDiễnĐànToolStripMenuItem.ImageAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopCenter</value>
+  </data>
+  <data name="thamGiaDiễnĐànToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>185, 22</value>
+  </data>
+  <data name="thamGiaDiễnĐànToolStripMenuItem.Text" xml:space="preserve">
+    <value>Tham gia diễn đàn</value>
+  </data>
+  <data name="cácTínhNăngKhácToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>145, 21</value>
+  </data>
+  <data name="cácTínhNăngKhácToolStripMenuItem.Text" xml:space="preserve">
+    <value>Các tính năng khác</value>
+  </data>
+  <data name="thôngTinPhầnMềmToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>157, 21</value>
+  </data>
+  <data name="thôngTinPhầnMềmToolStripMenuItem.Text" xml:space="preserve">
+    <value>Thông tin phần mềm</value>
+  </data>
+  <data name="cânBằngPTHHToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>128, 21</value>
+  </data>
+  <data name="cânBằngPTHHToolStripMenuItem.Text" xml:space="preserve">
+    <value>Cân bằng PTHH</value>
   </data>
   <data name="mnschinh.Location" type="System.Drawing.Point, System.Drawing">
     <value>0, 0</value>
@@ -4598,6 +4085,12 @@ Lorenxi</value>
   <metadata name="statusStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>663, 17</value>
   </metadata>
+  <data name="toolStripStatusLabel1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>138, 17</value>
+  </data>
+  <data name="toolStripStatusLabel1.Text" xml:space="preserve">
+    <value>Visual Periodic Table v1.3</value>
+  </data>
   <data name="statusStrip1.Location" type="System.Drawing.Point, System.Drawing">
     <value>0, 660</value>
   </data>
@@ -4625,15 +4118,15 @@ Lorenxi</value>
   <data name="&gt;&gt;statusStrip1.ZOrder" xml:space="preserve">
     <value>4</value>
   </data>
-  <data name="toolStripStatusLabel1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>138, 17</value>
-  </data>
-  <data name="toolStripStatusLabel1.Text" xml:space="preserve">
-    <value>Visual Periodic Table v1.3</value>
-  </data>
   <metadata name="contextMenuStrip2.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>779, 17</value>
   </metadata>
+  <data name="toolStripMenuItem1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>180, 22</value>
+  </data>
+  <data name="toolStripMenuItem1.Text" xml:space="preserve">
+    <value>toolStripMenuItem1</value>
+  </data>
   <data name="contextMenuStrip2.Size" type="System.Drawing.Size, System.Drawing">
     <value>181, 26</value>
   </data>
@@ -4642,12 +4135,6 @@ Lorenxi</value>
   </data>
   <data name="&gt;&gt;contextMenuStrip2.Type" xml:space="preserve">
     <value>System.Windows.Forms.ContextMenuStrip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="toolStripMenuItem1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>180, 22</value>
-  </data>
-  <data name="toolStripMenuItem1.Text" xml:space="preserve">
-    <value>toolStripMenuItem1</value>
   </data>
   <data name="button1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -4705,123 +4192,6 @@ Lorenxi</value>
   </data>
   <data name="&gt;&gt;pictureBox1.ZOrder" xml:space="preserve">
     <value>5</value>
-  </data>
-  <data name="kienthuchoahoacoban.Size" type="System.Drawing.Size, System.Drawing">
-    <value>185, 21</value>
-  </data>
-  <data name="kienthuchoahoacoban.Text" xml:space="preserve">
-    <value>Kiến thức hóa học cơ bản</value>
-  </data>
-  <data name="bảngTínhTanToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>112, 21</value>
-  </data>
-  <data name="bảngTínhTanToolStripMenuItem.Text" xml:space="preserve">
-    <value>Bảng tính tan</value>
-  </data>
-  <data name="điệnLaToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>88, 21</value>
-  </data>
-  <data name="điệnLaToolStripMenuItem.Text" xml:space="preserve">
-    <value>Điện loạt</value>
-  </data>
-  <data name="tỉLệPhầnTrămCácNguyênTốTrongVỏTráiĐấtToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>197, 21</value>
-  </data>
-  <data name="tỉLệPhầnTrămCácNguyênTốTrongVỏTráiĐấtToolStripMenuItem.Text" xml:space="preserve">
-    <value>Tỉ lệ, so sánh các nguyên tố</value>
-  </data>
-  <data name="khamphaCaMau.Size" type="System.Drawing.Size, System.Drawing">
-    <value>144, 21</value>
-  </data>
-  <data name="khamphaCaMau.Text" xml:space="preserve">
-    <value>Khám phá Cà Mau</value>
-  </data>
-  <data name="cácTínhNăngKhácToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>145, 21</value>
-  </data>
-  <data name="cácTínhNăngKhácToolStripMenuItem.Text" xml:space="preserve">
-    <value>Các tính năng khác</value>
-  </data>
-  <data name="giảiPhươngTrìnhBậcHaiToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>185, 22</value>
-  </data>
-  <data name="giảiPhươngTrìnhBậcHaiToolStripMenuItem.Text" xml:space="preserve">
-    <value>Toán</value>
-  </data>
-  <data name="giảiPhươngTrìnhBậcNhấtToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>271, 22</value>
-  </data>
-  <data name="giảiPhươngTrìnhBậcNhấtToolStripMenuItem.Text" xml:space="preserve">
-    <value>Giải phương trình bậc nhất</value>
-  </data>
-  <data name="giảiPhươngTrìnhBậcHaiToolStripMenuItem1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>271, 22</value>
-  </data>
-  <data name="giảiPhươngTrìnhBậcHaiToolStripMenuItem1.Text" xml:space="preserve">
-    <value>Giải phương trình bậc hai</value>
-  </data>
-  <data name="giảiPhươngTrìnhBậcNhấtHaiẨnToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>271, 22</value>
-  </data>
-  <data name="giảiPhươngTrìnhBậcNhấtHaiẨnToolStripMenuItem.Text" xml:space="preserve">
-    <value>Giải phương trình bậc nhất hai ẩn</value>
-  </data>
-  <data name="máyTinh.Size" type="System.Drawing.Size, System.Drawing">
-    <value>271, 22</value>
-  </data>
-  <data name="máyTinh.Text" xml:space="preserve">
-    <value>Máy Tính</value>
-  </data>
-  <data name="tinhkhoangcach.Size" type="System.Drawing.Size, System.Drawing">
-    <value>271, 22</value>
-  </data>
-  <data name="tinhkhoangcach.Text" xml:space="preserve">
-    <value>Tính khoảng cách </value>
-  </data>
-  <data name="vậtLíToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>185, 22</value>
-  </data>
-  <data name="vậtLíToolStripMenuItem.Text" xml:space="preserve">
-    <value>Vật lí</value>
-  </data>
-  <data name="chuyểnĐổiCácĐơnVịToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>204, 22</value>
-  </data>
-  <data name="chuyểnĐổiCácĐơnVịToolStripMenuItem.Text" xml:space="preserve">
-    <value>Chuyển đổi các đơn vị</value>
-  </data>
-  <data name="hóaHọcToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>185, 22</value>
-  </data>
-  <data name="hóaHọcToolStripMenuItem.Text" xml:space="preserve">
-    <value>Hóa học</value>
-  </data>
-  <data name="tínhNồngĐộPhầnTrămDungDịchToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>280, 22</value>
-  </data>
-  <data name="tínhNồngĐộPhầnTrămDungDịchToolStripMenuItem.Text" xml:space="preserve">
-    <value>Tính nồng độ phần trăm dung dịch</value>
-  </data>
-  <data name="tínhNồngĐộMolToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>280, 22</value>
-  </data>
-  <data name="tínhNồngĐộMolToolStripMenuItem.Text" xml:space="preserve">
-    <value>Tính nồng độ Mol</value>
-  </data>
-  <data name="thamGiaDiễnĐànToolStripMenuItem.ImageAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>TopCenter</value>
-  </data>
-  <data name="thamGiaDiễnĐànToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>185, 22</value>
-  </data>
-  <data name="thamGiaDiễnĐànToolStripMenuItem.Text" xml:space="preserve">
-    <value>Tham gia diễn đàn</value>
-  </data>
-  <data name="thôngTinPhầnMềmToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>157, 21</value>
-  </data>
-  <data name="thôngTinPhầnMềmToolStripMenuItem.Text" xml:space="preserve">
-    <value>Thông tin phần mềm</value>
   </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
@@ -5121,6 +4491,9 @@ Lorenxi</value>
         4j8r57+Tw/8mlr/Gdv6ac/h7+PD3fIZfw92mozlBdPca/x98oeP0nmfigAAAAABJRU5ErkJggg==
 </value>
   </data>
+  <data name="$this.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
   <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
     <value>CenterScreen</value>
   </data>
@@ -5149,6 +4522,12 @@ Lorenxi</value>
     <value>toolStripMenuItem1</value>
   </data>
   <data name="&gt;&gt;toolStripMenuItem1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;thamGiaDiễnĐànToolStripMenuItem1.Name" xml:space="preserve">
+    <value>thamGiaDiễnĐànToolStripMenuItem1</value>
+  </data>
+  <data name="&gt;&gt;thamGiaDiễnĐànToolStripMenuItem1.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;tsmcanbang.Name" xml:space="preserve">
@@ -5277,10 +4656,10 @@ Lorenxi</value>
   <data name="&gt;&gt;thôngTinPhầnMềmToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;thamGiaDiễnĐànToolStripMenuItem1.Name" xml:space="preserve">
-    <value>thamGiaDiễnĐànToolStripMenuItem1</value>
+  <data name="&gt;&gt;cânBằngPTHHToolStripMenuItem.Name" xml:space="preserve">
+    <value>cânBằngPTHHToolStripMenuItem</value>
   </data>
-  <data name="&gt;&gt;thamGiaDiễnĐànToolStripMenuItem1.Type" xml:space="preserve">
+  <data name="&gt;&gt;cânBằngPTHHToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">

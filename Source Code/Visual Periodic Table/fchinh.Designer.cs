@@ -148,6 +148,7 @@
             this.toolStripStatusLabel1 = new System.Windows.Forms.ToolStripStatusLabel();
             this.contextMenuStrip2 = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.toolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
+            this.thamGiaDiễnĐànToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.tsmcanbang = new System.Windows.Forms.ToolStripMenuItem();
             this.từĐiểnHóaHọcToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.button1 = new System.Windows.Forms.Button();
@@ -171,7 +172,7 @@
             this.tínhNồngĐộMolToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.thamGiaDiễnĐànToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.thôngTinPhầnMềmToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.thamGiaDiễnĐànToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
+            this.cânBằngPTHHToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.pn7.SuspendLayout();
             this.pn6.SuspendLayout();
             this.panel1.SuspendLayout();
@@ -876,7 +877,8 @@
             this.tỉLệPhầnTrămCácNguyênTốTrongVỏTráiĐấtToolStripMenuItem,
             this.khamphaCaMau,
             this.cácTínhNăngKhácToolStripMenuItem,
-            this.thôngTinPhầnMềmToolStripMenuItem});
+            this.thôngTinPhầnMềmToolStripMenuItem,
+            this.cânBằngPTHHToolStripMenuItem});
             this.mnschinh.Name = "mnschinh";
             this.mnschinh.ItemClicked += new System.Windows.Forms.ToolStripItemClickedEventHandler(this.mnschinh_ItemClicked);
             // 
@@ -1166,6 +1168,13 @@
             this.toolStripMenuItem1.Name = "toolStripMenuItem1";
             resources.ApplyResources(this.toolStripMenuItem1, "toolStripMenuItem1");
             // 
+            // thamGiaDiễnĐànToolStripMenuItem1
+            // 
+            this.thamGiaDiễnĐànToolStripMenuItem1.Image = global::Visual_Periodic_Table.Properties.Resources._123_1_1024x4781;
+            this.thamGiaDiễnĐànToolStripMenuItem1.Name = "thamGiaDiễnĐànToolStripMenuItem1";
+            resources.ApplyResources(this.thamGiaDiễnĐànToolStripMenuItem1, "thamGiaDiễnĐànToolStripMenuItem1");
+            this.thamGiaDiễnĐànToolStripMenuItem1.Click += new System.EventHandler(this.thamGiaDiễnĐànToolStripMenuItem1_Click);
+            // 
             // tsmcanbang
             // 
             this.tsmcanbang.Image = global::Visual_Periodic_Table.Properties.Resources.info2;
@@ -1336,12 +1345,12 @@
             resources.ApplyResources(this.thôngTinPhầnMềmToolStripMenuItem, "thôngTinPhầnMềmToolStripMenuItem");
             this.thôngTinPhầnMềmToolStripMenuItem.Click += new System.EventHandler(this.thôngTinPhầnMềmToolStripMenuItem1_Click);
             // 
-            // thamGiaDiễnĐànToolStripMenuItem1
+            // cânBằngPTHHToolStripMenuItem
             // 
-            this.thamGiaDiễnĐànToolStripMenuItem1.Image = global::Visual_Periodic_Table.Properties.Resources._123_1_1024x4781;
-            this.thamGiaDiễnĐànToolStripMenuItem1.Name = "thamGiaDiễnĐànToolStripMenuItem1";
-            resources.ApplyResources(this.thamGiaDiễnĐànToolStripMenuItem1, "thamGiaDiễnĐànToolStripMenuItem1");
-            this.thamGiaDiễnĐànToolStripMenuItem1.Click += new System.EventHandler(this.thamGiaDiễnĐànToolStripMenuItem1_Click);
+            this.cânBằngPTHHToolStripMenuItem.Image = global::Visual_Periodic_Table.Properties.Resources.iconp;
+            this.cânBằngPTHHToolStripMenuItem.Name = "cânBằngPTHHToolStripMenuItem";
+            resources.ApplyResources(this.cânBằngPTHHToolStripMenuItem, "cânBằngPTHHToolStripMenuItem");
+            this.cânBằngPTHHToolStripMenuItem.Click += new System.EventHandler(this.cânBằngPTHHToolStripMenuItem_Click);
             // 
             // fchinh
             // 
@@ -1576,6 +1585,7 @@
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.ToolStripMenuItem thamGiaDiễnĐànToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem thamGiaDiễnĐànToolStripMenuItem1;
+        private System.Windows.Forms.ToolStripMenuItem cânBằngPTHHToolStripMenuItem;
     }
 }
 

@@ -49,6 +49,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Geckofx-Core">
+      <HintPath>C:\Users\carzy\Downloads\GeckoFx-Windows-33.0-0.9\Geckofx-Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Geckofx-Winforms">
+      <HintPath>C:\Users\carzy\Downloads\GeckoFx-Windows-33.0-0.9\Geckofx-Winforms.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.VisualBasic" />
     <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
     <Reference Include="System" />
@@ -125,6 +131,12 @@
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
     </Compile>
     <Compile Include="Form_Chao_Mung.cs">
       <SubType>Form</SubType>
@@ -250,6 +262,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="fchinh.resx">
       <DependentUpon>fchinh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form_Chao_Mung.resx">
       <DependentUpon>Form_Chao_Mung.cs</DependentUpon>
@@ -380,6 +395,7 @@
     <None Include="bin\Debug\Resources\x-button.png" />
     <None Include="bin\Debug\Resources\info.png" />
     <None Include="bin\Debug\Resources\cancel-button.png" />
+    <None Include="bin\Debug\Resources\iconp.png" />
     <Content Include="DATA\DBVPT.mdf">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>

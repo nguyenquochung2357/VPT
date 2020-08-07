@@ -317,8 +317,6 @@ C:\Users\carzy\Downloads\VPT-master\Source Code\Visual Periodic Table\obj\x86\De
 C:\Users\carzy\Downloads\VPT-master\Source Code\Visual Periodic Table\obj\x86\Debug\Visual Periodic Table.csproj.CoreCompileInputs.cache
 C:\Users\carzy\Downloads\VPT-master\Source Code\Visual Periodic Table\obj\x86\Debug\Visual Periodic Table.exe
 C:\Users\carzy\Downloads\VPT-master\Source Code\Visual Periodic Table\obj\x86\Debug\Visual Periodic Table.pdb
-D:\Github\VPT\Source Code\Visual Periodic Table\bin\Debug\Geckofx-Core.dll
-D:\Github\VPT\Source Code\Visual Periodic Table\bin\Debug\Geckofx-Winforms.dll
 D:\Github\VPT\Source Code\Visual Periodic Table\bin\Debug\Geckofx-Core.pdb
 D:\Github\VPT\Source Code\Visual Periodic Table\bin\Debug\Geckofx-Core.dll.config
 D:\Github\VPT\Source Code\Visual Periodic Table\bin\Debug\Geckofx-Winforms.pdb
